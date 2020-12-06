@@ -12,7 +12,7 @@ module ColorSchemes
 
 import Base.get
 
-using Colors, ColorTypes, FixedPointNumbers, StaticArrays
+using Colors, ColorTypes, FixedPointNumbers
 
 export ColorScheme,
        get,
@@ -33,12 +33,16 @@ myscheme = ColorScheme([Colors.RGB(0.0, 0.0, 0.0), Colors.RGB(1.0, 1.0, 1.0)],
 ```
 
 """
-struct ColorScheme{V <: AbstractVector{<:Colorant},S1 <: AbstractString,S2 <: AbstractString}
+struct ColorScheme{V,S1<:AbstractString,S2<:AbstractString}
     colors::V
     category::S1
     notes::S2
 end
-ColorScheme(colors::V, category::S1="", notes::S2="") where {V,S1,S2} =
+ColorScheme(colors::V, category::S1="", notes::S2=""
+           ) where {V<:Tuple{T,Vararg{T}},S1<:AbstractString,S2<:AbstractString} where {T<:Colorant} =
+    ColorScheme{V,S1,S2}(colors, category, notes)
+ColorScheme(colors::V, category::S1="", notes::S2=""
+           ) where {V<:AbstractVector{T},S1<:AbstractString,S2<:AbstractString} where {T<:Colorant} =
     ColorScheme{V,S1,S2}(colors, category, notes)
 
 Base.getindex(cs::ColorScheme, i::AbstractFloat) = get(cs, i)
@@ -137,8 +141,11 @@ function findcolorscheme(str)
     return nothing
 end
 
-# displaying swatches
-Base.show(io::IO, m::MIME"image/svg+xml", cscheme::ColorScheme) = show(io, m, cscheme.colors)
+# displaying swatches 
+Base.show(io::IO, m::MIME"image/svg+xml", cscheme::ColorScheme) = 
+    show(io, m, collect(cscheme.colors))
+Base.show(io::IO, m::MIME"text/plain", cscheme::ColorScheme) = 
+    show(io, m, collect(cscheme.colors))
 
 # Interfaces
 Base.length(cscheme::ColorScheme) = length(cscheme.colors)

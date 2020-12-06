@@ -1,6 +1,6 @@
 # load some basic schemes
 
-loadcolorscheme(:alpine, SA[
+loadcolorscheme(:alpine, (
     RGB(0.277546, 0.355398, 0.484215),
     RGB(0.304739, 0.42573, 0.46747),
     RGB(0.336447, 0.468254, 0.376802),
@@ -9,9 +9,9 @@ loadcolorscheme(:alpine, SA[
     RGB(0.610225, 0.62717, 0.537364),
     RGB(0.735256, 0.728382, 0.656772),
     RGB(0.867237, 0.859925, 0.784232),
-    RGB(1.0, 0.997467, 0.914244)], "general", "alpine")
+    RGB(1.0, 0.997467, 0.914244)), "general", "alpine")
 
-loadcolorscheme(:aquamarine, SA[
+loadcolorscheme(:aquamarine, (
     RGB(0.68069, 0.735561, 0.850004),
     RGB(0.762233, 0.803087, 0.873397),
     RGB(0.738044, 0.801736, 0.849202),
@@ -19,9 +19,9 @@ loadcolorscheme(:aquamarine, SA[
     RGB(0.555381, 0.703512, 0.753383),
     RGB(0.488359, 0.662194, 0.729431),
     RGB(0.498514, 0.663109, 0.75323),
-    RGB(0.631571, 0.734035, 0.848615)], "general")
+    RGB(0.631571, 0.734035, 0.848615)), "general")
 
-loadcolorscheme(:army, SA[
+loadcolorscheme(:army, (
     RGB(0.45684, 0.59295, 0.506035),
     RGB(0.458087, 0.591348, 0.443069),
     RGB(0.495384, 0.591978, 0.426517),
@@ -30,9 +30,9 @@ loadcolorscheme(:army, SA[
     RGB(0.597959, 0.551917, 0.433916),
     RGB(0.628709, 0.583197, 0.478777),
     RGB(0.701339, 0.695369, 0.570508),
-    RGB(0.762737, 0.757717, 0.654841)], "general")
+    RGB(0.762737, 0.757717, 0.654841)), "general")
 
-loadcolorscheme(:atlantic, SA[
+loadcolorscheme(:atlantic, (
     RGB(0.131838, 0.159976, 0.163333),
     RGB(0.230913, 0.290626, 0.293972),
     RGB(0.392506, 0.513992, 0.525327),
@@ -40,9 +40,9 @@ loadcolorscheme(:atlantic, SA[
     RGB(0.523077, 0.717819, 0.782847),
     RGB(0.566364, 0.722379, 0.819837),
     RGB(0.609652, 0.686364, 0.806245),
-    RGB(0.479438, 0.4981, 0.622843)], "general")
+    RGB(0.479438, 0.4981, 0.622843)), "general")
 
-loadcolorscheme(:auerbach, SA[
+loadcolorscheme(:auerbach, (
     RGB(0.0905657,0.0995937,0.164406),
     RGB(0.149226,0.0896605,0.102863),
     RGB(0.197664,0.108484,0.122217),
@@ -92,9 +92,9 @@ loadcolorscheme(:auerbach, SA[
     RGB(0.827819,0.732186,0.680818),
     RGB(0.884046,0.774829,0.570453),
     RGB(0.888407,0.816291,0.762794),
-    RGB(0.949093,0.911894,0.891501)], "general", "palette of artist Auerbach's portrait of his wife Julia")
+    RGB(0.949093,0.911894,0.891501)), "general", "palette of artist Auerbach's portrait of his wife Julia")
 
-loadcolorscheme(:aurora, SA[
+loadcolorscheme(:aurora, (
     RGB(0.258824, 0.258824, 0.258824),
     RGB(0.204175, 0.222746, 0.360176),
     RGB(0.23957, 0.205789, 0.388725),
@@ -108,9 +108,9 @@ loadcolorscheme(:aurora, SA[
     RGB(0.609237, 0.602413, 0.755645),
     RGB(0.658459, 0.511458, 0.871022),
     RGB(0.741099, 0.389229, 0.948278),
-    RGB(0.8619, 0.275798, 0.951756)], "general")
+    RGB(0.8619, 0.275798, 0.951756)), "general")
 
-loadcolorscheme(:autumn, SA[
+loadcolorscheme(:autumn, (
     RGB{Float64}(0.0233758,0.0181998,0.012548),
     RGB{Float64}(0.100989,0.0831826,0.0536865),
     RGB{Float64}(0.200013,0.125413,0.0426299),
@@ -141,16 +141,16 @@ loadcolorscheme(:autumn, SA[
     RGB{Float64}(0.954791,0.849885,0.598371),
     RGB{Float64}(0.961593,0.912222,0.766808),
     RGB{Float64}(0.946942,0.967295,0.964988)
-], "general", "what we call September/October/November")
+), "general", "what we call September/October/November")
 
-loadcolorscheme(:avocado, SA[
+loadcolorscheme(:avocado, (
     RGB(0.0, 0.0, 0.0),
     RGB(0.0, 0.442859, 0.0749256),
     RGB(0.289326, 0.685107, 0.108759),
     RGB(0.683989, 0.830896, 0.145815),
-    RGB(1.0, 0.984375, 0.230411)], "general")
+    RGB(1.0, 0.984375, 0.230411)), "general")
 
-loadcolorscheme(:beach, SA[
+loadcolorscheme(:beach, (
     RGB(0.853407, 0.503288, 0.26041),
     RGB(0.879024, 0.628064, 0.283622),
     RGB(0.902009, 0.732143, 0.303912),
@@ -158,9 +158,9 @@ loadcolorscheme(:beach, SA[
     RGB(0.799766, 0.761697, 0.551801),
     RGB(0.723459, 0.731524, 0.768181),
     RGB(0.742358, 0.769362, 0.959202),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:blackbody, SA[
+loadcolorscheme(:blackbody, (
     RGB(1.0000, 0.0475, 0.0000),
     RGB(1.0000, 0.0736, 0.0000),
     RGB(1.0000, 0.0994, 0.0000),
@@ -291,18 +291,18 @@ loadcolorscheme(:blackbody, SA[
     RGB(0.3791, 0.5606, 1.0000),
     RGB(0.3774, 0.5592, 1.0000),
     RGB(0.3757, 0.5578, 1.0000),
-    RGB(0.3741, 0.5564, 1.0000)], "general", "blackbody radiation")
+    RGB(0.3741, 0.5564, 1.0000)), "general", "blackbody radiation")
 
-loadcolorscheme(:bluegreenyellow, SA[
+loadcolorscheme(:bluegreenyellow, (
     RGB(0.122103, 0.00901808, 0.39826),
     RGB(0.0839935, 0.279645, 0.510102),
     RGB(0.097699, 0.498132, 0.548165),
     RGB(0.175507, 0.652273, 0.528496),
     RGB(0.329526, 0.762208, 0.474596),
     RGB(0.571909, 0.839991, 0.408102),
-    RGB(0.914809, 0.897673, 0.350652)], "general")
+    RGB(0.914809, 0.897673, 0.350652)), "general")
 
-loadcolorscheme(:bosch_garden, SA[
+loadcolorscheme(:bosch_garden, (
     RGB(0.07530125537056928, 0.07649729299614583, 0.03739579713464333),
     RGB(0.17922449019740094, 0.1633440970817033, 0.06494415075992625),
     RGB(0.13499752721320693, 0.2150800454892352, 0.2383452663078406),
@@ -334,9 +334,9 @@ loadcolorscheme(:bosch_garden, SA[
     RGB(0.8043409132937561, 0.7424514037724755, 0.6234620677964494),
     RGB(0.7795358409718735, 0.7836287708751883, 0.7135765240457057),
     RGB(0.8415044389204545, 0.8345875355113636, 0.7600355113636363),
-    RGB(0.9058543033696058, 0.9009288016065757, 0.8380141319703904)], "general", "colors from artist Hieronymus Bosch painting The Garden of Earthly Delights")
+    RGB(0.9058543033696058, 0.9009288016065757, 0.8380141319703904)), "general", "colors from artist Hieronymus Bosch painting The Garden of Earthly Delights")
 
-loadcolorscheme(:bosch_hell, SA[
+loadcolorscheme(:bosch_hell, (
     RGB(0.028345470928858425, 0.021315651958756794, 0.013759352472819664),
     RGB(0.06741215235695605, 0.05796160378261147, 0.04115055096638387),
     RGB(0.15517539042108927, 0.08800923307812772, 0.03587809400556812),
@@ -368,9 +368,9 @@ loadcolorscheme(:bosch_hell, SA[
     RGB(0.9158942224017901, 0.7172873414967678, 0.4201947880407757),
     RGB(0.91901611328125, 0.7779931640625, 0.58317626953125),
     RGB(0.8750235733936812, 0.8200518059992901, 0.7297338147852325),
-    RGB(0.9520800309480676, 0.9037519814311594, 0.8232634171195652)], "general", "colors from artist Hieronymus Bosch painting Hell")
+    RGB(0.9520800309480676, 0.9037519814311594, 0.8232634171195652)), "general", "colors from artist Hieronymus Bosch painting Hell")
 
-loadcolorscheme(:botticelli, SA[
+loadcolorscheme(:botticelli, (
     RGB(0.05695005623735094, 0.0653929898638574, 0.05267668232432475),
     RGB(0.10517969694056904, 0.1094558088189137, 0.08376402353619686),
     RGB(0.16398935838222442, 0.15660910658901703, 0.11353151936119886),
@@ -402,10 +402,10 @@ loadcolorscheme(:botticelli, SA[
     RGB(0.8188664477703115, 0.7233408101710446, 0.5790436010995723),
     RGB(0.7243632688029112, 0.7929893723956861, 0.7726782275816884),
     RGB(0.8155937511095921, 0.780050045382321, 0.7101263880998455),
-    RGB(0.8542077403613729, 0.8476678167301184, 0.8119314991489405)], "general",
+    RGB(0.8542077403613729, 0.8476678167301184, 0.8119314991489405)), "general",
 "palette from artist Sandro Botticelli's painting The Birth of Venus, thought to have been painted in the mid 1480s. It depicts the goddess Venus, having emerged from the sea as an adult woman, arriving at the shore, Adobe Illustrator icon")
 
-loadcolorscheme(:brass, SA[
+loadcolorscheme(:brass, (
     RGB(0.143801, 0.154009, 0.0471656),
     RGB(0.364383, 0.3345, 0.142088),
     RGB(0.656718, 0.592813, 0.276295),
@@ -414,9 +414,9 @@ loadcolorscheme(:brass, SA[
     RGB(0.878462, 0.795697, 0.393286),
     RGB(0.738337, 0.670505, 0.326983),
     RGB(0.484833, 0.443357, 0.205342),
-    RGB(0.17615, 0.166293, 0.0534371)], "general", "brass colors")
+    RGB(0.17615, 0.166293, 0.0534371)), "general", "brass colors")
 
-loadcolorscheme(:browncyan, SA[
+loadcolorscheme(:browncyan, (
     RGB(0.347677, 0.199863, 0.085069),
     RGB(0.560535, 0.419142, 0.29185),
     RGB(0.729634, 0.613774, 0.512),
@@ -425,9 +425,9 @@ loadcolorscheme(:browncyan, SA[
     RGB(0.762289, 0.939134, 0.951842),
     RGB(0.639101, 0.925688, 0.971463),
     RGB(0.504741, 0.85335, 0.938049),
-    RGB(0.342992, 0.650614, 0.772702)], "general")
+    RGB(0.342992, 0.650614, 0.772702)), "general")
 
-loadcolorscheme(:canaletto, SA[
+loadcolorscheme(:canaletto, (
     RGB(0.034214766443250784, 0.0322387712720445, 0.06071185589675335),
     RGB(0.11843962825226598, 0.1092886311924143, 0.09978767221091664),
     RGB(0.20373838996508195, 0.17682640440323452, 0.12015488780854804),
@@ -459,10 +459,10 @@ loadcolorscheme(:canaletto, SA[
     RGB(0.8097069792384401, 0.8893310760558856, 0.9138026604312929),
     RGB(0.938019686123348, 0.9049865530601007, 0.7312358647341095),
     RGB(0.862142583930427, 0.9282232580320678, 0.9399599434976197),
-    RGB(0.9484832069804526, 0.9778496734356529, 0.96414923157287)], "general",
+    RGB(0.9484832069804526, 0.9778496734356529, 0.96414923157287)), "general",
 "color palette from artist Canaletto The Grand Canal and the Church of the Salute")
 
-loadcolorscheme(:candy, SA[
+loadcolorscheme(:candy, (
     RGB(0.405188, 0.204349, 0.343389),
     RGB(0.580744, 0.217841, 0.355177),
     RGB(0.738643, 0.266095, 0.407856),
@@ -471,9 +471,9 @@ loadcolorscheme(:candy, SA[
     RGB(0.766146, 0.640731, 0.778398),
     RGB(0.696099, 0.729278, 0.860188),
     RGB(0.673284, 0.831207, 0.909501),
-    RGB(0.659388, 0.872053, 0.882048)], "general")
+    RGB(0.659388, 0.872053, 0.882048)), "general")
 
-loadcolorscheme(:cezanne, SA[
+loadcolorscheme(:cezanne, (
     RGB(0.03124343755934729, 0.13497559456853608, 0.1343021740281653),
     RGB(0.08163565679194464, 0.2312679635266445, 0.21562914542922565),
     RGB(0.143721203667775, 0.2826108867379123, 0.30067028093917536),
@@ -505,9 +505,9 @@ loadcolorscheme(:cezanne, SA[
     RGB(0.7063674927635895, 0.7679233785692912, 0.7461676606540679),
     RGB(0.6509400680420826, 0.7852137890790488, 0.8515740841951183),
     RGB(0.8480242294444568, 0.8186986250083198, 0.6339557842278082),
-    RGB(0.7806382366538815, 0.8810799476771491, 0.904943304680926)], "general", "color palette from artist Paul Cezanne Mont Sainte-Victoire 1887")
+    RGB(0.7806382366538815, 0.8810799476771491, 0.904943304680926)), "general", "color palette from artist Paul Cezanne Mont Sainte-Victoire 1887")
 
-loadcolorscheme(:cherry, SA[
+loadcolorscheme(:cherry, (
     RGB(0.215686, 0.215686, 0.215686),
     RGB(0.563899, 0.155919, 0.156577),
     RGB(0.747389, 0.178584, 0.180272),
@@ -515,9 +515,9 @@ loadcolorscheme(:cherry, SA[
     RGB(0.880144, 0.397868, 0.404399),
     RGB(0.911942, 0.567676, 0.576412),
     RGB(0.949724, 0.768164, 0.776002),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:cmyk, SA[
+loadcolorscheme(:cmyk, (
     RGB(0.300725, 0.680491, 0.901701),
     RGB(0.386403, 0.743518, 0.934237),
     RGB(0.496414, 0.645794, 0.86504),
@@ -533,17 +533,17 @@ loadcolorscheme(:cmyk, SA[
     RGB(0.806801, 0.785304, 0.566474),
     RGB(0.662204, 0.650797, 0.559579),
     RGB(0.444557, 0.438462, 0.440244),
-    RGB(0.133532, 0.122103, 0.125444)], "general", "cyan to magenta to yellow to black (K)")
+    RGB(0.133532, 0.122103, 0.125444)), "general", "cyan to magenta to yellow to black (K)")
 
-loadcolorscheme(:coffee, SA[
+loadcolorscheme(:coffee, (
     RGB(0.406332, 0.330678, 0.278141),
     RGB(0.616382, 0.502629, 0.380121),
     RGB(0.723168, 0.559286, 0.323473),
     RGB(0.813935, 0.656425, 0.370324),
     RGB(0.91191, 0.830616, 0.618036),
-    RGB(0.976303, 0.999222, 0.999207)], "general")
+    RGB(0.976303, 0.999222, 0.999207)), "general")
 
-loadcolorscheme(:cubehelix, SA[
+loadcolorscheme(:cubehelix, (
     RGB(0.0,0.0,0.0),
     RGB(0.00802,0.00136,0.00662),
     RGB(0.01578,0.00279,0.01353),
@@ -800,9 +800,9 @@ loadcolorscheme(:cubehelix, SA[
     RGB(0.98338,0.9974,0.98776),
     RGB(0.99177,0.99869,0.9937),
     RGB(1.0,1.0,1.0)
-], "general", "Unlike most other color schemes, cubehelix was designed by Dave Green to be monotonically increasing in terms of perceived brightness. Also, when printed on a black and white postscript printer, the scheme results in a greyscale with monotonically increasing brightness. This color scheme is named cubehelix because the r,g,b values produced can be visualised as a squashed helix around the diagonal in the r,g,b color cube. https://www.mrao.cam.ac.uk/~dag/CUBEHELIX/")
+), "general", "Unlike most other color schemes, cubehelix was designed by Dave Green to be monotonically increasing in terms of perceived brightness. Also, when printed on a black and white postscript printer, the scheme results in a greyscale with monotonically increasing brightness. This color scheme is named cubehelix because the r,g,b values produced can be visualised as a squashed helix around the diagonal in the r,g,b color cube. https://www.mrao.cam.ac.uk/~dag/CUBEHELIX/")
 
-loadcolorscheme(:darkrainbow, SA[
+loadcolorscheme(:darkrainbow, (
     RGB(0.237736, 0.340215, 0.575113),
     RGB(0.253651, 0.344893, 0.558151),
     RGB(0.264425, 0.423024, 0.3849),
@@ -813,9 +813,9 @@ loadcolorscheme(:darkrainbow, SA[
     RGB(0.877875, 0.731045, 0.326896),
     RGB(0.812807, 0.518694, 0.303459),
     RGB(0.72987, 0.239399, 0.230961),
-    RGB(0.72987, 0.239399, 0.230961)], "general")
+    RGB(0.72987, 0.239399, 0.230961)), "general")
 
-loadcolorscheme(:darkterrain, SA[
+loadcolorscheme(:darkterrain, (
     RGB(0.0, 0.0675975, 0.467384),
     RGB(0.161984, 0.248617, 0.483617),
     RGB(0.29126, 0.390772, 0.493561),
@@ -829,25 +829,25 @@ loadcolorscheme(:darkterrain, SA[
     RGB(0.526719, 0.397452, 0.263694),
     RGB(0.633185, 0.525937, 0.420695),
     RGB(0.812397, 0.757547, 0.703722),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:deepsea, SA[
+loadcolorscheme(:deepsea, (
     RGB(0.16791, 0.0, 0.301671),
     RGB(0.305814, 0.0607622, 0.601948),
     RGB(0.235431, 0.32765, 0.833291),
     RGB(0.282325, 0.661868, 0.973082),
-    RGB(0.772061, 0.92462, 0.998703)], "general", "dark blue fading to light blue")
+    RGB(0.772061, 0.92462, 0.998703)), "general", "dark blue fading to light blue")
 
-loadcolorscheme(:fall, SA[
+loadcolorscheme(:fall, (
     RGB(0.259739, 0.395895, 0.39585),
     RGB(0.355047, 0.395763, 0.286168),
     RGB(0.442859, 0.324335, 0.236759),
     RGB(0.58078, 0.330282, 0.220121),
     RGB(0.765749, 0.461911, 0.220057),
     RGB(0.934051, 0.667165, 0.231683),
-    RGB(0.961303, 0.793622, 0.261418)], "general", "autumnal")
+    RGB(0.961303, 0.793622, 0.261418)), "general", "autumnal")
 
-loadcolorscheme(:fruitpunch, SA[
+loadcolorscheme(:fruitpunch, (
     RGB(1.0, 0.499474, 0.0),
     RGB(0.989146, 0.606517, 0.00227297),
     RGB(0.89853, 0.670191, 0.038923),
@@ -855,25 +855,25 @@ loadcolorscheme(:fruitpunch, SA[
     RGB(0.769483, 0.571276, 0.370227),
     RGB(0.79659, 0.442924, 0.594615),
     RGB(0.875012, 0.339677, 0.712848),
-    RGB(0.957321, 0.360967, 0.542092)], "general")
+    RGB(0.957321, 0.360967, 0.542092)), "general")
 
-loadcolorscheme(:fuchsia, SA[
+loadcolorscheme(:fuchsia, (
     RGB(0.1, 0.1, 0.1),
     RGB(0.356675, 0.216956, 0.334404),
     RGB(0.587, 0.343432, 0.54366),
     RGB(0.783404, 0.563621, 0.743292),
     RGB(0.923313, 0.823714, 0.906672),
-    RGB(0.969142, 0.931897, 0.965022)], "general")
+    RGB(0.969142, 0.931897, 0.965022)), "general")
 
-loadcolorscheme(:grays1, SA[
+loadcolorscheme(:grays1, (
     RGB(0.1, 0.1, 0.1),
     RGB(0.225356, 0.246889, 0.268731),
     RGB(0.333565, 0.367922, 0.391532),
     RGB(0.51593, 0.541278, 0.547958),
     RGB(0.753644, 0.757794, 0.737969),
-    RGB(0.917794, 0.920966, 0.881936)], "general")
+    RGB(0.917794, 0.920966, 0.881936)), "general")
 
-loadcolorscheme(:grayyellow, SA[
+loadcolorscheme(:grayyellow, (
     RGB(0.180514, 0.213809, 0.295109),
     RGB(0.261894, 0.294381, 0.38358),
     RGB(0.367557, 0.398803, 0.488766),
@@ -883,9 +883,9 @@ loadcolorscheme(:grayyellow, SA[
     RGB(0.859884, 0.847747, 0.817471),
     RGB(0.927424, 0.879934, 0.757948),
     RGB(0.951528, 0.846543, 0.579805),
-    RGB(0.932982, 0.73698, 0.246387)], "general")
+    RGB(0.932982, 0.73698, 0.246387)), "general")
 
-loadcolorscheme(:greenbrownterrain, SA[
+loadcolorscheme(:greenbrownterrain, (
     RGB(0.0, 0.0, 0.0),
     RGB(0.113011, 0.15859, 0.177864),
     RGB(0.243544, 0.319899, 0.300598),
@@ -899,9 +899,9 @@ loadcolorscheme(:greenbrownterrain, SA[
     RGB(0.766146, 0.609435, 0.408375),
     RGB(0.791364, 0.657634, 0.511331),
     RGB(0.85831, 0.77812, 0.697653),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:greenpink, SA[
+loadcolorscheme(:greenpink, (
     RGB(0.0, 0.24239, 0.0232242),
     RGB(0.000161089, 0.454438, 0.0436387),
     RGB(0.0079099, 0.681698, 0.0703023),
@@ -917,9 +917,9 @@ loadcolorscheme(:greenpink, SA[
     RGB(0.874018, 0.204385, 0.872946),
     RGB(0.682624, 0.146568, 0.682702),
     RGB(0.455855, 0.0967564, 0.454813),
-    RGB(0.244327, 0.0512856, 0.24126)], "general")
+    RGB(0.244327, 0.0512856, 0.24126)), "general")
 
-loadcolorscheme(:hokusai, SA[
+loadcolorscheme(:hokusai, (
     RGB(0.08544447666417647, 0.08902665213502144, 0.15332964308182284),
     RGB(0.08735333692735853, 0.11887849681980253, 0.2245133264541828),
     RGB(0.1112499123425623, 0.1548582529847975, 0.26017051593933216),
@@ -951,10 +951,10 @@ loadcolorscheme(:hokusai, SA[
     RGB(0.7427913557778212, 0.7943431026299625, 0.7153181535819979),
     RGB(0.8224642804446194, 0.8033270521837498, 0.6761185569545544),
     RGB(0.8536700191827608, 0.8375037571025991, 0.7087303099107102),
-    RGB(0.8859117460189212, 0.8711084173742508, 0.7462206147534963)], "general",
+    RGB(0.8859117460189212, 0.8711084173742508, 0.7462206147534963)), "general",
     "from one of the many copies of artist Hokusai's The Great Wave off Kanagawa (神奈川沖浪裏 Kanagawa-oki namiura, \"In the well of a wave off Kanagawa\"), also known as The Great Wave or simply The Wave, a woodblock print published sometime between 1830 and 1833. It depicts an enormous wave threatening boats off the coast of the prefecture of Kanagawa.")
 
-loadcolorscheme(:holbein, SA[
+loadcolorscheme(:holbein, (
     RGB(0.042662393203256474, 0.02802781621742958, 0.09345865243295302),
     RGB(0.048739302593371066, 0.054687733474372606, 0.12868916747396916),
     RGB(0.09216232278380455, 0.05061246854724288, 0.10938267844474661),
@@ -986,10 +986,10 @@ loadcolorscheme(:holbein, SA[
     RGB(0.8483361148197597, 0.7598727469959947, 0.6140990070093458),
     RGB(0.9426792964971233, 0.7107300656152945, 0.8020825378035741),
     RGB(0.8141683874150125, 0.8257315671728905, 0.8082325618971152),
-    RGB(0.9332364663223651, 0.9402859332477733, 0.938574315391514)], "general",
+    RGB(0.9332364663223651, 0.9402859332477733, 0.938574315391514)), "general",
     "color palette from Hans Holbein the Younger's The Ambassadors")
 
-loadcolorscheme(:island, SA[
+loadcolorscheme(:island, (
     RGB(0.76321, 0.364813, 0.209552),
     RGB(0.53493, 0.600597, 0.574225),
     RGB(0.529615, 0.738927, 0.757626),
@@ -999,9 +999,9 @@ loadcolorscheme(:island, SA[
     RGB(0.881935, 0.931717, 0.797277),
     RGB(0.843881, 0.897455, 0.65882),
     RGB(0.752088, 0.840237, 0.484239),
-    RGB(0.661036, 0.784207, 0.310994)], "general")
+    RGB(0.661036, 0.784207, 0.310994)), "general")
 
-loadcolorscheme(:jet, SA[
+loadcolorscheme(:jet, (
     RGB(0.0,0.0,0.498),
     RGB(0.0,0.0,1.0),
     RGB(0.0,0.498,1.0),
@@ -1010,9 +1010,9 @@ loadcolorscheme(:jet, SA[
     RGB(1.0,1.0,0.0),
     RGB(1.0,0.498,0.0),
     RGB(1.0,0.0,0.0),
-    RGB(0.498,0.0,0.0)], "general")
+    RGB(0.498,0.0,0.0)), "general")
 
-loadcolorscheme(:klimt, SA[
+loadcolorscheme(:klimt, (
     RGB(0.12642371160582694, 0.10155590851079735, 0.06521509280816797),
     RGB(0.17341530343637526, 0.1580490510876886, 0.12789282588831835),
     RGB(0.1056201722585537, 0.16790053593853665, 0.4987027295990902),
@@ -1044,16 +1044,16 @@ loadcolorscheme(:klimt, SA[
     RGB(0.9627465753814504, 0.7548465518900728, 0.30782980160652046),
     RGB(0.8819382550756218, 0.7943603725039735, 0.6753772766584465),
     RGB(0.9857574000407269, 0.8049734765075166, 0.3884906042012011),
-    RGB(0.9718323944040534, 0.837311923157504, 0.5147269428404451)], "general",
+    RGB(0.9718323944040534, 0.837311923157504, 0.5147269428404451)), "general",
     "color palette from artist Gustav Klimt's The Kiss")
 
-loadcolorscheme(:lake, SA[
+loadcolorscheme(:lake, (
     RGB(0.293416, 0.0574044, 0.529412),
     RGB(0.563821, 0.527565, 0.909499),
     RGB(0.762631, 0.846998, 0.914031),
-    RGB(0.941176, 0.906538, 0.834043)], "general")
+    RGB(0.941176, 0.906538, 0.834043)), "general")
 
-loadcolorscheme(:leonardo, SA[
+loadcolorscheme(:leonardo, (
     RGB(0.05482025926320272, 0.016508952654741622, 0.019315160361063788),
     RGB(0.07508160782698388, 0.034110215845969745, 0.039708343938094984),
     RGB(0.10884977211887092, 0.033667530751245296, 0.026120424375656533),
@@ -1085,10 +1085,10 @@ loadcolorscheme(:leonardo, SA[
     RGB(0.7575520588269891, 0.6334254649343621, 0.25145144950124687),
     RGB(0.8164723313500291, 0.6970150665478066, 0.32242062463720045),
     RGB(0.9330273170314637, 0.6651641943114455, 0.19865164906805746),
-    RGB(0.9724409077178674, 0.7907008712807734, 0.2851364857083522)], "general",
+    RGB(0.9724409077178674, 0.7907008712807734, 0.2851364857083522)), "general",
     "color palette from artist Leonardo Da Vinci's Mona Lisa")
 
-loadcolorscheme(:lighttemperaturemap, SA[
+loadcolorscheme(:lighttemperaturemap, (
     RGB(0.165698, 0.282261, 0.936187),
     RGB(0.358007, 0.574105, 0.948836),
     RGB(0.546319, 0.783703, 0.966583),
@@ -1098,9 +1098,9 @@ loadcolorscheme(:lighttemperaturemap, SA[
     RGB(0.981765, 0.945724, 0.654917),
     RGB(0.943297, 0.818753, 0.479667),
     RGB(0.894942, 0.622553, 0.310567),
-    RGB(0.845274, 0.369528, 0.19115)], "general")
+    RGB(0.845274, 0.369528, 0.19115)), "general")
 
-loadcolorscheme(:lightterrain, SA[
+loadcolorscheme(:lightterrain, (
     RGB(0.54938, 0.772213, 0.848103),
     RGB(0.522608, 0.678921, 0.681891),
     RGB(0.534412, 0.632018, 0.572058),
@@ -1112,17 +1112,17 @@ loadcolorscheme(:lightterrain, SA[
     RGB(0.852431, 0.845908, 0.701864),
     RGB(0.880069, 0.876629, 0.773246),
     RGB(0.895256, 0.894033, 0.842152),
-    RGB(0.9, 0.9, 0.9)], "general")
+    RGB(0.9, 0.9, 0.9)), "general")
 
-loadcolorscheme(:mint, SA[
+loadcolorscheme(:mint, (
     RGB(0.465278, 0.97641, 0.637812),
     RGB(0.64413, 0.960182, 0.753403),
     RGB(0.780073, 0.918494, 0.82706),
     RGB(0.871422, 0.849165, 0.858016),
     RGB(0.916493, 0.750014, 0.845498),
-    RGB(0.913603, 0.61886, 0.788739)], "general")
+    RGB(0.913603, 0.61886, 0.788739)), "general")
 
-loadcolorscheme(:munch, SA[
+loadcolorscheme(:munch, (
     RGB(0.04370105415584468, 0.0797743106556198, 0.05326460581723035),
     RGB(0.10087973308344687, 0.13815762830286352, 0.10788206355321264),
     RGB(0.11998226317503255, 0.18561368842648857, 0.17444656396065567),
@@ -1154,10 +1154,10 @@ loadcolorscheme(:munch, SA[
     RGB(0.7637453418111413, 0.5788684735471106, 0.3628719106147751),
     RGB(0.8702364497615486, 0.636771075632364, 0.3662237830013715),
     RGB(0.7761487609122928, 0.6702795423203283, 0.4581189486987741),
-    RGB(0.9111398633608918, 0.773604674815757, 0.5772137218959261)], "general",
+    RGB(0.9111398633608918, 0.773604674815757, 0.5772137218959261)), "general",
     "color palette from artist Edvard Munch's The Scream")
 
-loadcolorscheme(:neon, SA[
+loadcolorscheme(:neon, (
     RGB(0.720287, 0.923781, 0.297597),
     RGB(0.741831, 0.759184, 0.2915),
     RGB(0.763375, 0.594586, 0.285403),
@@ -1167,9 +1167,9 @@ loadcolorscheme(:neon, SA[
     RGB(0.857705, 0.331729, 0.385417),
     RGB(0.840408, 0.290678, 0.51353),
     RGB(0.823111, 0.249627, 0.641643),
-    RGB(0.805814, 0.208576, 0.769757)], "general")
+    RGB(0.805814, 0.208576, 0.769757)), "general")
 
-loadcolorscheme(:pastel, SA[
+loadcolorscheme(:pastel, (
     RGB(0.761959, 0.470832, 0.940597),
     RGB(0.809695, 0.585618, 0.953269),
     RGB(0.866514, 0.647659, 0.771795),
@@ -1181,9 +1181,9 @@ loadcolorscheme(:pastel, SA[
     RGB(0.891128, 0.944422, 0.72627),
     RGB(0.771259, 0.887462, 0.856246),
     RGB(0.594516, 0.801371, 0.955499),
-    RGB(0.431296, 0.709773, 0.927077)], "general")
+    RGB(0.431296, 0.709773, 0.927077)), "general")
 
-loadcolorscheme(:pearl, SA[
+loadcolorscheme(:pearl, (
     RGB(0.904982, 0.837568, 0.77612),
     RGB(0.928729, 0.910113, 0.867731),
     RGB(0.827846, 0.847694, 0.803109),
@@ -1192,9 +1192,9 @@ loadcolorscheme(:pearl, SA[
     RGB(0.605727, 0.62858, 0.713699),
     RGB(0.666448, 0.65519, 0.807337),
     RGB(0.791875, 0.729616, 0.920763),
-    RGB(0.951461, 0.811566, 0.982544)], "general")
+    RGB(0.951461, 0.811566, 0.982544)), "general")
 
-loadcolorscheme(:picasso, SA[
+loadcolorscheme(:picasso, (
     RGB(0.12620164907144776, 0.06438983516873843, 0.02992720014504996),
     RGB(0.17082791099665337, 0.09623273959502825, 0.10760591014870545),
     RGB(0.22090871123522818, 0.10797456814387428, 0.04927915500799452),
@@ -1226,18 +1226,18 @@ loadcolorscheme(:picasso, SA[
     RGB(0.8922317410283542, 0.8648865021676146, 0.11820486040774877),
     RGB(0.9164024872500107, 0.8932144802182452, 0.2645823906383936),
     RGB(0.9138583501747527, 0.8947252831872871, 0.4746384235017161),
-    RGB(0.888973781274151, 0.8810887553888843, 0.8827283350559141)], "general",
+    RGB(0.888973781274151, 0.8810887553888843, 0.8827283350559141)), "general",
     "color palette from artist Pablo Picasso's The Weeping Woman.")
 
-loadcolorscheme(:pigeon, SA[
+loadcolorscheme(:pigeon, (
     RGB(0.195819, 0.174945, 0.218631),
     RGB(0.316089, 0.333408, 0.367098),
     RGB(0.390402, 0.464561, 0.429587),
     RGB(0.600788, 0.611074, 0.601862),
     RGB(0.860933, 0.776316, 0.843276),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:plum, SA[
+loadcolorscheme(:plum, (
     RGB(0.0, 0.0, 0.0),
     RGB(0.283922, 0.0658863, 0.0672204),
     RGB(0.425528, 0.129261, 0.189587),
@@ -1245,9 +1245,9 @@ loadcolorscheme(:plum, SA[
     RGB(0.500788, 0.303597, 0.46287),
     RGB(0.543941, 0.442117, 0.545342),
     RGB(0.663774, 0.633245, 0.546072),
-    RGB(0.915038, 0.890761, 0.430838)], "general")
+    RGB(0.915038, 0.890761, 0.430838)), "general")
 
-loadcolorscheme(:rainbow, SA[
+loadcolorscheme(:rainbow, (
     RGB(0.471412, 0.108766, 0.527016),
     RGB(0.31106, 0.11758, 0.664469),
     RGB(0.250728, 0.225386, 0.769152),
@@ -1264,9 +1264,9 @@ loadcolorscheme(:rainbow, SA[
     RGB(0.901014, 0.582826, 0.216542),
     RGB(0.902853, 0.453964, 0.192014),
     RGB(0.878107, 0.293208, 0.160481),
-    RGB(0.857359, 0.131106, 0.132128)], "general")
+    RGB(0.857359, 0.131106, 0.132128)), "general")
 
-loadcolorscheme(:redblue, SA[
+loadcolorscheme(:redblue, (
     RGB(0.450385, 0.157961, 0.217975),
     RGB(0.599449, 0.262748, 0.294618),
     RGB(0.721701, 0.434448, 0.400225),
@@ -1277,16 +1277,16 @@ loadcolorscheme(:redblue, SA[
     RGB(0.61971, 0.781131, 0.831119),
     RGB(0.433786, 0.670834, 0.793785),
     RGB(0.256859, 0.523007, 0.711644),
-    RGB(0.139681, 0.311666, 0.550652)], "general")
+    RGB(0.139681, 0.311666, 0.550652)), "general")
 
-loadcolorscheme(:redgreensplit, SA[
+loadcolorscheme(:redgreensplit, (
     RGB(1.0, 0.0, 0.0),
     RGB(1.0, 0.532004, 0.532004),
     RGB(1.0, 1.0, 1.0),
     RGB(0.516977, 0.759672, 0.55607),
-    RGB(0.0, 0.502449, 0.0809339)], "general")
+    RGB(0.0, 0.502449, 0.0809339)), "general")
 
-loadcolorscheme(:rembrandt, SA[
+loadcolorscheme(:rembrandt, (
     RGB(0.031663851406301846, 0.03492594286146479, 0.031003618124638095),
     RGB(0.04529340060564456, 0.04989234100446206, 0.045304957123243686),
     RGB(0.05747028102054473, 0.0635903364289073, 0.05674786425742395),
@@ -1318,23 +1318,23 @@ loadcolorscheme(:rembrandt, SA[
     RGB(0.7852916563988829, 0.7189996354936751, 0.576854361754559),
     RGB(0.9445661567249457, 0.8016677558279054, 0.5137283417609416),
     RGB(0.9447413960951767, 0.8705809733859705, 0.6717839422870341),
-    RGB(0.9678855020491803, 0.9538263270412989, 0.8386529102301387)], "general",
+    RGB(0.9678855020491803, 0.9538263270412989, 0.8386529102301387)), "general",
     "color palette from artist Rembrandt's The Night Watch")
 
-loadcolorscheme(:rose, SA[
+loadcolorscheme(:rose, (
     RGB(0.151125, 0.307698, 0.0888533),
     RGB(0.391873, 0.387803, 0.226078),
     RGB(0.691229, 0.536224, 0.368141),
     RGB(0.816631, 0.534426, 0.382173),
     RGB(0.752037, 0.349792, 0.258647),
-    RGB(0.697932, 0.135622, 0.111376)], "general")
+    RGB(0.697932, 0.135622, 0.111376)), "general")
 
-loadcolorscheme(:rust, SA[
+loadcolorscheme(:rust, (
     RGB(0.0, 0.00505074, 0.191104),
     RGB(0.777778, 0.368595, 0.070239),
-    RGB(1.0, 0.472465, 0.0357061)], "general")
+    RGB(1.0, 0.472465, 0.0357061)), "general")
 
-loadcolorscheme(:sandyterrain, SA[
+loadcolorscheme(:sandyterrain, (
     RGB(0.658579, 0.316091, 0.207507),
     RGB(0.742127, 0.402321, 0.239443),
     RGB(0.824658, 0.544191, 0.268712),
@@ -1345,23 +1345,23 @@ loadcolorscheme(:sandyterrain, SA[
     RGB(0.816335, 0.700506, 0.267824),
     RGB(0.615762, 0.571419, 0.21246),
     RGB(0.437278, 0.454937, 0.189928),
-    RGB(0.290517, 0.358022, 0.190234)], "general")
+    RGB(0.290517, 0.358022, 0.190234)), "general")
 
-loadcolorscheme(:sienna, SA[
+loadcolorscheme(:sienna, (
     RGB(0.466987, 0.173327, 0.0693065),
     RGB(0.794293, 0.358873, 0.0979057),
     RGB(0.915381, 0.591867, 0.320798),
     RGB(0.923632, 0.792035, 0.603304),
-    RGB(0.912428, 0.879103, 0.810742)], "general")
+    RGB(0.912428, 0.879103, 0.810742)), "general")
 
-loadcolorscheme(:sun, SA[
+loadcolorscheme(:sun, (
     RGB(0.468742, 0.0, 0.0158236),
     RGB(0.822129, 0.122225, 0.0039559),
     RGB(0.969963, 0.376081, 0.0322881),
     RGB(1.0, 0.646929, 0.0801709),
-    RGB(1.0, 0.820127, 0.126955)], "general")
+    RGB(1.0, 0.820127, 0.126955)), "general")
 
-loadcolorscheme(:southwest, SA[
+loadcolorscheme(:southwest, (
     RGB(0.396811, 0.31014, 0.204105),
     RGB(0.611882, 0.281795, 0.14969),
     RGB(0.673598, 0.379359, 0.158461),
@@ -1371,9 +1371,9 @@ loadcolorscheme(:southwest, SA[
     RGB(0.831964, 0.810543, 0.372854),
     RGB(0.72478, 0.755004, 0.274138),
     RGB(0.559215, 0.681633, 0.459675),
-    RGB(0.35082, 0.595178, 0.853742)], "general")
+    RGB(0.35082, 0.595178, 0.853742)), "general")
 
-loadcolorscheme(:starrynight, SA[
+loadcolorscheme(:starrynight, (
     RGB(0.0863508, 0.145602, 0.203418),
     RGB(0.179449, 0.285129, 0.326534),
     RGB(0.260705, 0.406664, 0.445423),
@@ -1382,19 +1382,19 @@ loadcolorscheme(:starrynight, SA[
     RGB(0.74555, 0.811361, 0.650903),
     RGB(0.866077, 0.862389, 0.597576),
     RGB(0.942459, 0.855345, 0.495749),
-    RGB(0.957885, 0.809857, 0.369177)], "general",
+    RGB(0.957885, 0.809857, 0.369177)), "general",
     "color palette extracted from artist Vincent Van Gogh's The Starry Night")
 
-loadcolorscheme(:sunset, SA[
+loadcolorscheme(:sunset, (
     RGB(0.0, 0.0, 0.0),
     RGB(0.372793, 0.1358, 0.506503),
     RGB(0.788287, 0.259816, 0.270778),
     RGB(0.979377, 0.451467, 0.0511329),
     RGB(1.0, 0.682688, 0.129771),
     RGB(1.0, 0.882236, 0.491094),
-    RGB(1.0, 1.0, 1.0)], "general")
+    RGB(1.0, 1.0, 1.0)), "general")
 
-loadcolorscheme(:temperaturemap, SA[
+loadcolorscheme(:temperaturemap, (
     RGB(0.178927, 0.305394, 0.933501),
     RGB(0.308746, 0.441842, 0.940894),
     RGB(0.453318, 0.567063, 0.950106),
@@ -1407,9 +1407,9 @@ loadcolorscheme(:temperaturemap, SA[
     RGB(0.955963, 0.863115, 0.283425),
     RGB(0.904227, 0.657999, 0.241797),
     RGB(0.858405, 0.449932, 0.203562),
-    RGB(0.817319, 0.134127, 0.164218)], "general")
+    RGB(0.817319, 0.134127, 0.164218)), "general")
 
-loadcolorscheme(:thermometer, SA[
+loadcolorscheme(:thermometer, (
     RGB(0.163302, 0.119982, 0.79353),
     RGB(0.254221, 0.313173, 0.892833),
     RGB(0.407119, 0.543513, 0.938275),
@@ -1421,17 +1421,17 @@ loadcolorscheme(:thermometer, SA[
     RGB(0.874505, 0.639254, 0.522424),
     RGB(0.79915, 0.446142, 0.391971),
     RGB(0.685695, 0.242449, 0.268261),
-    RGB(0.534081, 0.0853132, 0.16669)], "general")
+    RGB(0.534081, 0.0853132, 0.16669)), "general")
 
-loadcolorscheme(:valentine, SA[
+loadcolorscheme(:valentine, (
     RGB(0.518837, 0.110552, 0.199207),
     RGB(0.615689, 0.163604, 0.26703),
     RGB(0.70464, 0.280653, 0.382068),
     RGB(0.815506, 0.460722, 0.553805),
     RGB(0.925798, 0.669084, 0.745464),
-    RGB(0.960723, 0.837263, 0.874006)], "general")
+    RGB(0.960723, 0.837263, 0.874006)), "general")
 
-loadcolorscheme(:vangogh, SA[
+loadcolorscheme(:vangogh, (
     RGB(0.07805214539327196, 0.0622190753445267, 0.0905010963922489),
     RGB(0.0696892120133937, 0.09805612436075063, 0.16553643605405555),
     RGB(0.17610607806485293, 0.10685455625012509, 0.12237488523063118),
@@ -1461,10 +1461,10 @@ loadcolorscheme(:vangogh, SA[
     RGB(0.7105809231208425, 0.919514337453825, 0.9261193665689855),
     RGB(0.9515717841286133, 0.9260476308866568, 0.5531104604358869),
     RGB(0.959731486940972, 0.9627244597914443, 0.7235686748215752),
-    RGB(0.9493538255802926, 0.9788824950318931, 0.8911107310285581)], "general",
+    RGB(0.9493538255802926, 0.9788824950318931, 0.8911107310285581)), "general",
     "from artist Vincent Van Gogh's painting The Starry Night, painted in June, 1889, depicting the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence.")
 
-loadcolorscheme(:vermeer, SA[
+loadcolorscheme(:vermeer, (
     RGB(0.045319841827409044, 0.04074539053177987, 0.033174030819406126),
     RGB(0.06194243196273512, 0.05903050212040492, 0.05139710689483695),
     RGB(0.08816176863597491, 0.0835588842566198, 0.07360482587419233),
@@ -1496,12 +1496,12 @@ loadcolorscheme(:vermeer, SA[
     RGB(0.9108101703440042, 0.8264047024230633, 0.6766773246816413),
     RGB(0.9481923826365111, 0.8763149891872409, 0.5495049783744819),
     RGB(0.9564577470648753, 0.8846308778140886, 0.7723396650326797),
-    RGB(0.9689316860465117, 0.9673077588593577, 0.9478145764119602)], "general",
+    RGB(0.9689316860465117, 0.9673077588593577, 0.9478145764119602)), "general",
     "from the Girl with a Pearl Earring, an oil painting by 17th-century
     Dutch artist Johannes Vermeer. The deep green background has faded to
     black with time.")
 
-loadcolorscheme(:watermelon, SA[
+loadcolorscheme(:watermelon, (
     RGB(0.1, 0.1, 0.1),
     RGB(0.28648, 0.371759, 0.214236),
     RGB(0.430592, 0.585007, 0.337497),
@@ -1509,9 +1509,9 @@ loadcolorscheme(:watermelon, SA[
     RGB(0.727637, 0.854188, 0.660719),
     RGB(0.870242, 0.864625, 0.774702),
     RGB(0.949819, 0.725559, 0.725754),
-    RGB(0.882911, 0.359638, 0.360092)], "general")
+    RGB(0.882911, 0.359638, 0.360092)), "general")
 
-loadcolorscheme(:CMRmap, SA[
+loadcolorscheme(:CMRmap, (
     	Colors.RGB{Float64}(0.0,0.0,0.0),
     	Colors.RGB{Float64}(0.012,0.012,0.04),
     	Colors.RGB{Float64}(0.024,0.024,0.08),
@@ -1612,9 +1612,9 @@ loadcolorscheme(:CMRmap, SA[
     	Colors.RGB{Float64}(0.976,0.976,0.8799999999999999),
     	Colors.RGB{Float64}(0.984,0.984,0.9199999999999999),
     	Colors.RGB{Float64}(0.992,0.992,0.96),
-    ], "general", "Carey Rappaport's CMRmap 'A Color Map for Effective Black and-White Rendering of Color-Scale Images' by Carey Rappaport")
+    ), "general", "Carey Rappaport's CMRmap 'A Color Map for Effective Black and-White Rendering of Color-Scale Images' by Carey Rappaport")
 
-loadcolorscheme(:julia_colorscheme, SA[
+loadcolorscheme(:julia_colorscheme, (
     	Colors.RGB{Float64}(0.584,0.345,0.698),
     	Colors.RGB{Float64}(0.592566,0.340556,0.677879),
     	Colors.RGB{Float64}(0.601131,0.336111,0.657758),
@@ -1715,9 +1715,9 @@ loadcolorscheme(:julia_colorscheme, SA[
     	Colors.RGB{Float64}(0.554586,0.365283,0.653636),
     	Colors.RGB{Float64}(0.569293,0.355141,0.675818),
     	Colors.RGB{Float64}(0.584,0.345,0.698),
-    ], "general", "the Julia colors continuous cyclical colorscheme, purple to red to green back to purple")
+    ), "general", "the Julia colors continuous cyclical colorscheme, purple to red to green back to purple")
 
-loadcolorscheme(:turbo, SA[
+loadcolorscheme(:turbo, (
     RGB(0.18995,0.07176,0.23217),
     RGB(0.19483,0.08339,0.26149),
     RGB(0.19956,0.09498,0.29024),
@@ -1973,4 +1973,4 @@ loadcolorscheme(:turbo, SA[
     RGB(0.51989,0.02756,0.00780),
     RGB(0.50664,0.02354,0.00863),
     RGB(0.49321,0.01963,0.00955),
-    RGB(0.47960,0.01583,0.01055)], "general", "turbo, improved rainbow colormap, anton mikhailov")
+    RGB(0.47960,0.01583,0.01055)), "general", "turbo, improved rainbow colormap, anton mikhailov")

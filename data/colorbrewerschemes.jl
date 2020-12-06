@@ -2,37 +2,37 @@
 # The contents of that file are covered under the Apache License 2.0, included
 # in this distribution under data/.
 
-loadcolorscheme(:PuRd_3, SA[
+loadcolorscheme(:PuRd_3, (
     RGB(0.906,0.882,0.937),
     RGB(0.788,0.58,0.78),
     RGB(0.867,0.11,0.467),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_4, SA[
+loadcolorscheme(:PuRd_4, (
     RGB(0.945,0.933,0.965),
     RGB(0.843,0.71,0.847),
     RGB(0.875,0.396,0.69),
     RGB(0.808,0.071,0.337),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_5, SA[
+loadcolorscheme(:PuRd_5, (
     RGB(0.945,0.933,0.965),
     RGB(0.843,0.71,0.847),
     RGB(0.875,0.396,0.69),
     RGB(0.867,0.11,0.467),
     RGB(0.596,0.0,0.263),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_6, SA[
+loadcolorscheme(:PuRd_6, (
     RGB(0.945,0.933,0.965),
     RGB(0.831,0.725,0.855),
     RGB(0.788,0.58,0.78),
     RGB(0.875,0.396,0.69),
     RGB(0.867,0.11,0.467),
     RGB(0.596,0.0,0.263),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_7, SA[
+loadcolorscheme(:PuRd_7, (
     RGB(0.945,0.933,0.965),
     RGB(0.831,0.725,0.855),
     RGB(0.788,0.58,0.78),
@@ -40,9 +40,9 @@ loadcolorscheme(:PuRd_7, SA[
     RGB(0.906,0.161,0.541),
     RGB(0.808,0.071,0.337),
     RGB(0.569,0.0,0.247),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_8, SA[
+loadcolorscheme(:PuRd_8, (
     RGB(0.969,0.957,0.976),
     RGB(0.906,0.882,0.937),
     RGB(0.831,0.725,0.855),
@@ -51,9 +51,9 @@ loadcolorscheme(:PuRd_8, SA[
     RGB(0.906,0.161,0.541),
     RGB(0.808,0.071,0.337),
     RGB(0.569,0.0,0.247),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:PuRd_9, SA[
+loadcolorscheme(:PuRd_9, (
     RGB(0.969,0.957,0.976),
     RGB(0.906,0.882,0.937),
     RGB(0.831,0.725,0.855),
@@ -63,39 +63,39 @@ loadcolorscheme(:PuRd_9, SA[
     RGB(0.808,0.071,0.337),
     RGB(0.596,0.0,0.263),
     RGB(0.404,0.0,0.122),
-], "colorbrewer2", "sequential")
+), "colorbrewer2", "sequential")
 
-loadcolorscheme(:Purples_3, SA[
+loadcolorscheme(:Purples_3, (
     RGB(0.937,0.929,0.961),
     RGB(0.737,0.741,0.863),
     RGB(0.459,0.42,0.694),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Purples_4, SA[
+loadcolorscheme(:Purples_4, (
     RGB(0.949,0.941,0.969),
     RGB(0.796,0.788,0.886),
     RGB(0.62,0.604,0.784),
     RGB(0.416,0.318,0.639),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Purples_5, SA[
+loadcolorscheme(:Purples_5, (
     RGB(0.949,0.941,0.969),
     RGB(0.796,0.788,0.886),
     RGB(0.62,0.604,0.784),
     RGB(0.459,0.42,0.694),
     RGB(0.329,0.153,0.561),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Purples_6, SA[
+loadcolorscheme(:Purples_6, (
     RGB(0.949,0.941,0.969),
     RGB(0.855,0.855,0.922),
     RGB(0.737,0.741,0.863),
     RGB(0.62,0.604,0.784),
     RGB(0.459,0.42,0.694),
     RGB(0.329,0.153,0.561),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Purples_7, SA[
+loadcolorscheme(:Purples_7, (
     RGB(0.949,0.941,0.969),
     RGB(0.855,0.855,0.922),
     RGB(0.737,0.741,0.863),
@@ -103,9 +103,9 @@ loadcolorscheme(:Purples_7, SA[
     RGB(0.502,0.49,0.729),
     RGB(0.416,0.318,0.639),
     RGB(0.29,0.078,0.525),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Purples_8, SA[
+loadcolorscheme(:Purples_8, (
     RGB(0.988,0.984,0.992),
     RGB(0.937,0.929,0.961),
     RGB(0.855,0.855,0.922),
@@ -114,9 +114,9 @@ loadcolorscheme(:Purples_8, SA[
     RGB(0.502,0.49,0.729),
     RGB(0.416,0.318,0.639),
     RGB(0.29,0.078,0.525),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Purples_9, SA[
+loadcolorscheme(:Purples_9, (
     RGB(0.988,0.984,0.992),
     RGB(0.937,0.929,0.961),
     RGB(0.855,0.855,0.922),
@@ -126,39 +126,39 @@ loadcolorscheme(:Purples_9, SA[
     RGB(0.416,0.318,0.639),
     RGB(0.329,0.153,0.561),
     RGB(0.247,0.0,0.49),
-], "colorbrewer2", "sequential, white to purple")
+), "colorbrewer2", "sequential, white to purple")
 
-loadcolorscheme(:Set1_3, SA[
+loadcolorscheme(:Set1_3, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_4, SA[
+loadcolorscheme(:Set1_4, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
     RGB(0.596,0.306,0.639),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_5, SA[
+loadcolorscheme(:Set1_5, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
     RGB(0.596,0.306,0.639),
     RGB(1.0,0.498,0.0),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_6, SA[
+loadcolorscheme(:Set1_6, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
     RGB(0.596,0.306,0.639),
     RGB(1.0,0.498,0.0),
     RGB(1.0,1.0,0.2),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_7, SA[
+loadcolorscheme(:Set1_7, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
@@ -166,9 +166,9 @@ loadcolorscheme(:Set1_7, SA[
     RGB(1.0,0.498,0.0),
     RGB(1.0,1.0,0.2),
     RGB(0.651,0.337,0.157),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_8, SA[
+loadcolorscheme(:Set1_8, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
@@ -177,9 +177,9 @@ loadcolorscheme(:Set1_8, SA[
     RGB(1.0,1.0,0.2),
     RGB(0.651,0.337,0.157),
     RGB(0.969,0.506,0.749),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set1_9, SA[
+loadcolorscheme(:Set1_9, (
     RGB(0.894,0.102,0.11),
     RGB(0.216,0.494,0.722),
     RGB(0.302,0.686,0.29),
@@ -189,39 +189,39 @@ loadcolorscheme(:Set1_9, SA[
     RGB(0.651,0.337,0.157),
     RGB(0.969,0.506,0.749),
     RGB(0.6,0.6,0.6),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_3, SA[
+loadcolorscheme(:Greens_3, (
     RGB(0.898,0.961,0.878),
     RGB(0.631,0.851,0.608),
     RGB(0.192,0.639,0.329),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_4, SA[
+loadcolorscheme(:Greens_4, (
     RGB(0.929,0.973,0.914),
     RGB(0.729,0.894,0.702),
     RGB(0.455,0.769,0.463),
     RGB(0.137,0.545,0.271),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_5, SA[
+loadcolorscheme(:Greens_5, (
     RGB(0.929,0.973,0.914),
     RGB(0.729,0.894,0.702),
     RGB(0.455,0.769,0.463),
     RGB(0.192,0.639,0.329),
     RGB(0.0,0.427,0.173),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_6, SA[
+loadcolorscheme(:Greens_6, (
     RGB(0.929,0.973,0.914),
     RGB(0.78,0.914,0.753),
     RGB(0.631,0.851,0.608),
     RGB(0.455,0.769,0.463),
     RGB(0.192,0.639,0.329),
     RGB(0.0,0.427,0.173),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_7, SA[
+loadcolorscheme(:Greens_7, (
     RGB(0.929,0.973,0.914),
     RGB(0.78,0.914,0.753),
     RGB(0.631,0.851,0.608),
@@ -229,9 +229,9 @@ loadcolorscheme(:Greens_7, SA[
     RGB(0.255,0.671,0.365),
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.353,0.196),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_8, SA[
+loadcolorscheme(:Greens_8, (
     RGB(0.969,0.988,0.961),
     RGB(0.898,0.961,0.878),
     RGB(0.78,0.914,0.753),
@@ -240,9 +240,9 @@ loadcolorscheme(:Greens_8, SA[
     RGB(0.255,0.671,0.365),
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.353,0.196),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greens_9, SA[
+loadcolorscheme(:Greens_9, (
     RGB(0.969,0.988,0.961),
     RGB(0.898,0.961,0.878),
     RGB(0.78,0.914,0.753),
@@ -252,39 +252,39 @@ loadcolorscheme(:Greens_9, SA[
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.427,0.173),
     RGB(0.0,0.267,0.106),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrRd_3, SA[
+loadcolorscheme(:YlOrRd_3, (
     RGB(1.0,0.929,0.627),
     RGB(0.996,0.698,0.298),
     RGB(0.941,0.231,0.125),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_4, SA[
+loadcolorscheme(:YlOrRd_4, (
     RGB(1.0,1.0,0.698),
     RGB(0.996,0.8,0.361),
     RGB(0.992,0.553,0.235),
     RGB(0.89,0.102,0.11),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_5, SA[
+loadcolorscheme(:YlOrRd_5, (
     RGB(1.0,1.0,0.698),
     RGB(0.996,0.8,0.361),
     RGB(0.992,0.553,0.235),
     RGB(0.941,0.231,0.125),
     RGB(0.741,0.0,0.149),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_6, SA[
+loadcolorscheme(:YlOrRd_6, (
     RGB(1.0,1.0,0.698),
     RGB(0.996,0.851,0.463),
     RGB(0.996,0.698,0.298),
     RGB(0.992,0.553,0.235),
     RGB(0.941,0.231,0.125),
     RGB(0.741,0.0,0.149),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_7, SA[
+loadcolorscheme(:YlOrRd_7, (
     RGB(1.0,1.0,0.698),
     RGB(0.996,0.851,0.463),
     RGB(0.996,0.698,0.298),
@@ -292,9 +292,9 @@ loadcolorscheme(:YlOrRd_7, SA[
     RGB(0.988,0.306,0.165),
     RGB(0.89,0.102,0.11),
     RGB(0.694,0.0,0.149),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_8, SA[
+loadcolorscheme(:YlOrRd_8, (
     RGB(1.0,1.0,0.8),
     RGB(1.0,0.929,0.627),
     RGB(0.996,0.851,0.463),
@@ -303,9 +303,9 @@ loadcolorscheme(:YlOrRd_8, SA[
     RGB(0.988,0.306,0.165),
     RGB(0.89,0.102,0.11),
     RGB(0.694,0.0,0.149),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:YlOrRd_9, SA[
+loadcolorscheme(:YlOrRd_9, (
     RGB(1.0,1.0,0.8),
     RGB(1.0,0.929,0.627),
     RGB(0.996,0.851,0.463),
@@ -315,39 +315,39 @@ loadcolorscheme(:YlOrRd_9, SA[
     RGB(0.89,0.102,0.11),
     RGB(0.741,0.0,0.149),
     RGB(0.502,0.0,0.149),
-], "colorbrewer2", "white through yellow to red")
+), "colorbrewer2", "white through yellow to red")
 
-loadcolorscheme(:Pastel1_3, SA[
+loadcolorscheme(:Pastel1_3, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_4, SA[
+loadcolorscheme(:Pastel1_4, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
     RGB(0.871,0.796,0.894),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_5, SA[
+loadcolorscheme(:Pastel1_5, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
     RGB(0.871,0.796,0.894),
     RGB(0.996,0.851,0.651),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_6, SA[
+loadcolorscheme(:Pastel1_6, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
     RGB(0.871,0.796,0.894),
     RGB(0.996,0.851,0.651),
     RGB(1.0,1.0,0.8),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_7, SA[
+loadcolorscheme(:Pastel1_7, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
@@ -355,9 +355,9 @@ loadcolorscheme(:Pastel1_7, SA[
     RGB(0.996,0.851,0.651),
     RGB(1.0,1.0,0.8),
     RGB(0.898,0.847,0.741),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_8, SA[
+loadcolorscheme(:Pastel1_8, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
@@ -366,9 +366,9 @@ loadcolorscheme(:Pastel1_8, SA[
     RGB(1.0,1.0,0.8),
     RGB(0.898,0.847,0.741),
     RGB(0.992,0.855,0.925),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel1_9, SA[
+loadcolorscheme(:Pastel1_9, (
     RGB(0.984,0.706,0.682),
     RGB(0.702,0.804,0.89),
     RGB(0.8,0.922,0.773),
@@ -378,39 +378,39 @@ loadcolorscheme(:Pastel1_9, SA[
     RGB(0.898,0.847,0.741),
     RGB(0.992,0.855,0.925),
     RGB(0.949,0.949,0.949),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:RdYlBu_3, SA[
+loadcolorscheme(:RdYlBu_3, (
     RGB(0.988,0.553,0.349),
     RGB(1.0,1.0,0.749),
     RGB(0.569,0.749,0.859),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_4, SA[
+loadcolorscheme(:RdYlBu_4, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(0.671,0.851,0.914),
     RGB(0.173,0.482,0.714),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_5, SA[
+loadcolorscheme(:RdYlBu_5, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(1.0,1.0,0.749),
     RGB(0.671,0.851,0.914),
     RGB(0.173,0.482,0.714),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_6, SA[
+loadcolorscheme(:RdYlBu_6, (
     RGB(0.843,0.188,0.153),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.565),
     RGB(0.878,0.953,0.973),
     RGB(0.569,0.749,0.859),
     RGB(0.271,0.459,0.706),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_7, SA[
+loadcolorscheme(:RdYlBu_7, (
     RGB(0.843,0.188,0.153),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.565),
@@ -418,9 +418,9 @@ loadcolorscheme(:RdYlBu_7, SA[
     RGB(0.878,0.953,0.973),
     RGB(0.569,0.749,0.859),
     RGB(0.271,0.459,0.706),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_8, SA[
+loadcolorscheme(:RdYlBu_8, (
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -429,9 +429,9 @@ loadcolorscheme(:RdYlBu_8, SA[
     RGB(0.671,0.851,0.914),
     RGB(0.455,0.678,0.82),
     RGB(0.271,0.459,0.706),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_9, SA[
+loadcolorscheme(:RdYlBu_9, (
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -441,9 +441,9 @@ loadcolorscheme(:RdYlBu_9, SA[
     RGB(0.671,0.851,0.914),
     RGB(0.455,0.678,0.82),
     RGB(0.271,0.459,0.706),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_10, SA[
+loadcolorscheme(:RdYlBu_10, (
     RGB(0.647,0.0,0.149),
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
@@ -454,9 +454,9 @@ loadcolorscheme(:RdYlBu_10, SA[
     RGB(0.455,0.678,0.82),
     RGB(0.271,0.459,0.706),
     RGB(0.192,0.212,0.584),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:RdYlBu_11, SA[
+loadcolorscheme(:RdYlBu_11, (
     RGB(0.647,0.0,0.149),
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
@@ -468,39 +468,39 @@ loadcolorscheme(:RdYlBu_11, SA[
     RGB(0.455,0.678,0.82),
     RGB(0.271,0.459,0.706),
     RGB(0.192,0.212,0.584),
-], "colorbrewer2", "red through yellow to blue")
+), "colorbrewer2", "red through yellow to blue")
 
-loadcolorscheme(:YlGnBu_3, SA[
+loadcolorscheme(:YlGnBu_3, (
     RGB(0.929,0.973,0.694),
     RGB(0.498,0.804,0.733),
     RGB(0.173,0.498,0.722),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_4, SA[
+loadcolorscheme(:YlGnBu_4, (
     RGB(1.0,1.0,0.8),
     RGB(0.631,0.855,0.706),
     RGB(0.255,0.714,0.769),
     RGB(0.133,0.369,0.659),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_5, SA[
+loadcolorscheme(:YlGnBu_5, (
     RGB(1.0,1.0,0.8),
     RGB(0.631,0.855,0.706),
     RGB(0.255,0.714,0.769),
     RGB(0.173,0.498,0.722),
     RGB(0.145,0.204,0.58),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_6, SA[
+loadcolorscheme(:YlGnBu_6, (
     RGB(1.0,1.0,0.8),
     RGB(0.78,0.914,0.706),
     RGB(0.498,0.804,0.733),
     RGB(0.255,0.714,0.769),
     RGB(0.173,0.498,0.722),
     RGB(0.145,0.204,0.58),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_7, SA[
+loadcolorscheme(:YlGnBu_7, (
     RGB(1.0,1.0,0.8),
     RGB(0.78,0.914,0.706),
     RGB(0.498,0.804,0.733),
@@ -508,9 +508,9 @@ loadcolorscheme(:YlGnBu_7, SA[
     RGB(0.114,0.569,0.753),
     RGB(0.133,0.369,0.659),
     RGB(0.047,0.173,0.518),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_8, SA[
+loadcolorscheme(:YlGnBu_8, (
     RGB(1.0,1.0,0.851),
     RGB(0.929,0.973,0.694),
     RGB(0.78,0.914,0.706),
@@ -519,9 +519,9 @@ loadcolorscheme(:YlGnBu_8, SA[
     RGB(0.114,0.569,0.753),
     RGB(0.133,0.369,0.659),
     RGB(0.047,0.173,0.518),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGnBu_9, SA[
+loadcolorscheme(:YlGnBu_9, (
     RGB(1.0,1.0,0.851),
     RGB(0.929,0.973,0.694),
     RGB(0.78,0.914,0.706),
@@ -531,39 +531,39 @@ loadcolorscheme(:YlGnBu_9, SA[
     RGB(0.133,0.369,0.659),
     RGB(0.145,0.204,0.58),
     RGB(0.031,0.114,0.345),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_3, SA[
+loadcolorscheme(:Blues_3, (
     RGB(0.871,0.922,0.969),
     RGB(0.62,0.792,0.882),
     RGB(0.192,0.51,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_4, SA[
+loadcolorscheme(:Blues_4, (
     RGB(0.937,0.953,1.0),
     RGB(0.741,0.843,0.906),
     RGB(0.42,0.682,0.839),
     RGB(0.129,0.443,0.71),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_5, SA[
+loadcolorscheme(:Blues_5, (
     RGB(0.937,0.953,1.0),
     RGB(0.741,0.843,0.906),
     RGB(0.42,0.682,0.839),
     RGB(0.192,0.51,0.741),
     RGB(0.031,0.318,0.612),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_6, SA[
+loadcolorscheme(:Blues_6, (
     RGB(0.937,0.953,1.0),
     RGB(0.776,0.859,0.937),
     RGB(0.62,0.792,0.882),
     RGB(0.42,0.682,0.839),
     RGB(0.192,0.51,0.741),
     RGB(0.031,0.318,0.612),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_7, SA[
+loadcolorscheme(:Blues_7, (
     RGB(0.937,0.953,1.0),
     RGB(0.776,0.859,0.937),
     RGB(0.62,0.792,0.882),
@@ -571,9 +571,9 @@ loadcolorscheme(:Blues_7, SA[
     RGB(0.259,0.573,0.776),
     RGB(0.129,0.443,0.71),
     RGB(0.031,0.271,0.58),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_8, SA[
+loadcolorscheme(:Blues_8, (
     RGB(0.969,0.984,1.0),
     RGB(0.871,0.922,0.969),
     RGB(0.776,0.859,0.937),
@@ -582,9 +582,9 @@ loadcolorscheme(:Blues_8, SA[
     RGB(0.259,0.573,0.776),
     RGB(0.129,0.443,0.71),
     RGB(0.031,0.271,0.58),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Blues_9, SA[
+loadcolorscheme(:Blues_9, (
     RGB(0.969,0.984,1.0),
     RGB(0.871,0.922,0.969),
     RGB(0.776,0.859,0.937),
@@ -594,39 +594,39 @@ loadcolorscheme(:Blues_9, SA[
     RGB(0.129,0.443,0.71),
     RGB(0.031,0.318,0.612),
     RGB(0.031,0.188,0.42),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_3, SA[
+loadcolorscheme(:Set3_3, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_4, SA[
+loadcolorscheme(:Set3_4, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
     RGB(0.984,0.502,0.447),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_5, SA[
+loadcolorscheme(:Set3_5, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
     RGB(0.984,0.502,0.447),
     RGB(0.502,0.694,0.827),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_6, SA[
+loadcolorscheme(:Set3_6, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
     RGB(0.984,0.502,0.447),
     RGB(0.502,0.694,0.827),
     RGB(0.992,0.706,0.384),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_7, SA[
+loadcolorscheme(:Set3_7, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -634,9 +634,9 @@ loadcolorscheme(:Set3_7, SA[
     RGB(0.502,0.694,0.827),
     RGB(0.992,0.706,0.384),
     RGB(0.702,0.871,0.412),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_8, SA[
+loadcolorscheme(:Set3_8, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -645,9 +645,9 @@ loadcolorscheme(:Set3_8, SA[
     RGB(0.992,0.706,0.384),
     RGB(0.702,0.871,0.412),
     RGB(0.988,0.804,0.898),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_9, SA[
+loadcolorscheme(:Set3_9, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -657,9 +657,9 @@ loadcolorscheme(:Set3_9, SA[
     RGB(0.702,0.871,0.412),
     RGB(0.988,0.804,0.898),
     RGB(0.851,0.851,0.851),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_10, SA[
+loadcolorscheme(:Set3_10, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -670,9 +670,9 @@ loadcolorscheme(:Set3_10, SA[
     RGB(0.988,0.804,0.898),
     RGB(0.851,0.851,0.851),
     RGB(0.737,0.502,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_11, SA[
+loadcolorscheme(:Set3_11, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -684,9 +684,9 @@ loadcolorscheme(:Set3_11, SA[
     RGB(0.851,0.851,0.851),
     RGB(0.737,0.502,0.741),
     RGB(0.8,0.922,0.773),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Set3_12, SA[
+loadcolorscheme(:Set3_12, (
     RGB(0.553,0.827,0.78),
     RGB(1.0,1.0,0.702),
     RGB(0.745,0.729,0.855),
@@ -699,39 +699,39 @@ loadcolorscheme(:Set3_12, SA[
     RGB(0.737,0.502,0.741),
     RGB(0.8,0.922,0.773),
     RGB(1.0,0.929,0.435),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_3, SA[
+loadcolorscheme(:Reds_3, (
     RGB(0.996,0.878,0.824),
     RGB(0.988,0.573,0.447),
     RGB(0.871,0.176,0.149),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_4, SA[
+loadcolorscheme(:Reds_4, (
     RGB(0.996,0.898,0.851),
     RGB(0.988,0.682,0.569),
     RGB(0.984,0.416,0.29),
     RGB(0.796,0.094,0.114),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_5, SA[
+loadcolorscheme(:Reds_5, (
     RGB(0.996,0.898,0.851),
     RGB(0.988,0.682,0.569),
     RGB(0.984,0.416,0.29),
     RGB(0.871,0.176,0.149),
     RGB(0.647,0.059,0.082),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_6, SA[
+loadcolorscheme(:Reds_6, (
     RGB(0.996,0.898,0.851),
     RGB(0.988,0.733,0.631),
     RGB(0.988,0.573,0.447),
     RGB(0.984,0.416,0.29),
     RGB(0.871,0.176,0.149),
     RGB(0.647,0.059,0.082),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_7, SA[
+loadcolorscheme(:Reds_7, (
     RGB(0.996,0.898,0.851),
     RGB(0.988,0.733,0.631),
     RGB(0.988,0.573,0.447),
@@ -739,9 +739,9 @@ loadcolorscheme(:Reds_7, SA[
     RGB(0.937,0.231,0.173),
     RGB(0.796,0.094,0.114),
     RGB(0.6,0.0,0.051),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_8, SA[
+loadcolorscheme(:Reds_8, (
     RGB(1.0,0.961,0.941),
     RGB(0.996,0.878,0.824),
     RGB(0.988,0.733,0.631),
@@ -750,9 +750,9 @@ loadcolorscheme(:Reds_8, SA[
     RGB(0.937,0.231,0.173),
     RGB(0.796,0.094,0.114),
     RGB(0.6,0.0,0.051),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Reds_9, SA[
+loadcolorscheme(:Reds_9, (
     RGB(1.0,0.961,0.941),
     RGB(0.996,0.878,0.824),
     RGB(0.988,0.733,0.631),
@@ -762,39 +762,39 @@ loadcolorscheme(:Reds_9, SA[
     RGB(0.796,0.094,0.114),
     RGB(0.647,0.059,0.082),
     RGB(0.404,0.0,0.051),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_3, SA[
+loadcolorscheme(:PuBu_3, (
     RGB(0.925,0.906,0.949),
     RGB(0.651,0.741,0.859),
     RGB(0.169,0.549,0.745),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_4, SA[
+loadcolorscheme(:PuBu_4, (
     RGB(0.945,0.933,0.965),
     RGB(0.741,0.788,0.882),
     RGB(0.455,0.663,0.812),
     RGB(0.02,0.439,0.69),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_5, SA[
+loadcolorscheme(:PuBu_5, (
     RGB(0.945,0.933,0.965),
     RGB(0.741,0.788,0.882),
     RGB(0.455,0.663,0.812),
     RGB(0.169,0.549,0.745),
     RGB(0.016,0.353,0.553),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_6, SA[
+loadcolorscheme(:PuBu_6, (
     RGB(0.945,0.933,0.965),
     RGB(0.816,0.82,0.902),
     RGB(0.651,0.741,0.859),
     RGB(0.455,0.663,0.812),
     RGB(0.169,0.549,0.745),
     RGB(0.016,0.353,0.553),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_7, SA[
+loadcolorscheme(:PuBu_7, (
     RGB(0.945,0.933,0.965),
     RGB(0.816,0.82,0.902),
     RGB(0.651,0.741,0.859),
@@ -802,9 +802,9 @@ loadcolorscheme(:PuBu_7, SA[
     RGB(0.212,0.565,0.753),
     RGB(0.02,0.439,0.69),
     RGB(0.012,0.306,0.482),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_8, SA[
+loadcolorscheme(:PuBu_8, (
     RGB(1.0,0.969,0.984),
     RGB(0.925,0.906,0.949),
     RGB(0.816,0.82,0.902),
@@ -813,9 +813,9 @@ loadcolorscheme(:PuBu_8, SA[
     RGB(0.212,0.565,0.753),
     RGB(0.02,0.439,0.69),
     RGB(0.012,0.306,0.482),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBu_9, SA[
+loadcolorscheme(:PuBu_9, (
     RGB(1.0,0.969,0.984),
     RGB(0.925,0.906,0.949),
     RGB(0.816,0.82,0.902),
@@ -825,39 +825,39 @@ loadcolorscheme(:PuBu_9, SA[
     RGB(0.02,0.439,0.69),
     RGB(0.016,0.353,0.553),
     RGB(0.008,0.22,0.345),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_3, SA[
+loadcolorscheme(:BuPu_3, (
     RGB(0.878,0.925,0.957),
     RGB(0.62,0.737,0.855),
     RGB(0.533,0.337,0.655),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_4, SA[
+loadcolorscheme(:BuPu_4, (
     RGB(0.929,0.973,0.984),
     RGB(0.702,0.804,0.89),
     RGB(0.549,0.588,0.776),
     RGB(0.533,0.255,0.616),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_5, SA[
+loadcolorscheme(:BuPu_5, (
     RGB(0.929,0.973,0.984),
     RGB(0.702,0.804,0.89),
     RGB(0.549,0.588,0.776),
     RGB(0.533,0.337,0.655),
     RGB(0.506,0.059,0.486),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_6, SA[
+loadcolorscheme(:BuPu_6, (
     RGB(0.929,0.973,0.984),
     RGB(0.749,0.827,0.902),
     RGB(0.62,0.737,0.855),
     RGB(0.549,0.588,0.776),
     RGB(0.533,0.337,0.655),
     RGB(0.506,0.059,0.486),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_7, SA[
+loadcolorscheme(:BuPu_7, (
     RGB(0.929,0.973,0.984),
     RGB(0.749,0.827,0.902),
     RGB(0.62,0.737,0.855),
@@ -865,9 +865,9 @@ loadcolorscheme(:BuPu_7, SA[
     RGB(0.549,0.42,0.694),
     RGB(0.533,0.255,0.616),
     RGB(0.431,0.004,0.42),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_8, SA[
+loadcolorscheme(:BuPu_8, (
     RGB(0.969,0.988,0.992),
     RGB(0.878,0.925,0.957),
     RGB(0.749,0.827,0.902),
@@ -876,9 +876,9 @@ loadcolorscheme(:BuPu_8, SA[
     RGB(0.549,0.42,0.694),
     RGB(0.533,0.255,0.616),
     RGB(0.431,0.004,0.42),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuPu_9, SA[
+loadcolorscheme(:BuPu_9, (
     RGB(0.969,0.988,0.992),
     RGB(0.878,0.925,0.957),
     RGB(0.749,0.827,0.902),
@@ -888,39 +888,39 @@ loadcolorscheme(:BuPu_9, SA[
     RGB(0.533,0.255,0.616),
     RGB(0.506,0.059,0.486),
     RGB(0.302,0.0,0.294),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdYlGn_3, SA[
+loadcolorscheme(:RdYlGn_3, (
     RGB(0.988,0.553,0.349),
     RGB(1.0,1.0,0.749),
     RGB(0.569,0.812,0.376),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_4, SA[
+loadcolorscheme(:RdYlGn_4, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(0.651,0.851,0.416),
     RGB(0.102,0.588,0.255),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_5, SA[
+loadcolorscheme(:RdYlGn_5, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(1.0,1.0,0.749),
     RGB(0.651,0.851,0.416),
     RGB(0.102,0.588,0.255),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_6, SA[
+loadcolorscheme(:RdYlGn_6, (
     RGB(0.843,0.188,0.153),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.545),
     RGB(0.851,0.937,0.545),
     RGB(0.569,0.812,0.376),
     RGB(0.102,0.596,0.314),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_7, SA[
+loadcolorscheme(:RdYlGn_7, (
     RGB(0.843,0.188,0.153),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.545),
@@ -928,9 +928,9 @@ loadcolorscheme(:RdYlGn_7, SA[
     RGB(0.851,0.937,0.545),
     RGB(0.569,0.812,0.376),
     RGB(0.102,0.596,0.314),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_8, SA[
+loadcolorscheme(:RdYlGn_8, (
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -939,9 +939,9 @@ loadcolorscheme(:RdYlGn_8, SA[
     RGB(0.651,0.851,0.416),
     RGB(0.4,0.741,0.388),
     RGB(0.102,0.596,0.314),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_9, SA[
+loadcolorscheme(:RdYlGn_9, (
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -951,9 +951,9 @@ loadcolorscheme(:RdYlGn_9, SA[
     RGB(0.651,0.851,0.416),
     RGB(0.4,0.741,0.388),
     RGB(0.102,0.596,0.314),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_10, SA[
+loadcolorscheme(:RdYlGn_10, (
     RGB(0.647,0.0,0.149),
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
@@ -964,9 +964,9 @@ loadcolorscheme(:RdYlGn_10, SA[
     RGB(0.4,0.741,0.388),
     RGB(0.102,0.596,0.314),
     RGB(0.0,0.408,0.216),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:RdYlGn_11, SA[
+loadcolorscheme(:RdYlGn_11, (
     RGB(0.647,0.0,0.149),
     RGB(0.843,0.188,0.153),
     RGB(0.957,0.427,0.263),
@@ -978,39 +978,39 @@ loadcolorscheme(:RdYlGn_11, SA[
     RGB(0.4,0.741,0.388),
     RGB(0.102,0.596,0.314),
     RGB(0.0,0.408,0.216),
-], "colorbrewer2", "diverging")
+), "colorbrewer2", "diverging")
 
-loadcolorscheme(:Pastel2_3, SA[
+loadcolorscheme(:Pastel2_3, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel2_4, SA[
+loadcolorscheme(:Pastel2_4, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
     RGB(0.957,0.792,0.894),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel2_5, SA[
+loadcolorscheme(:Pastel2_5, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
     RGB(0.957,0.792,0.894),
     RGB(0.902,0.961,0.788),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel2_6, SA[
+loadcolorscheme(:Pastel2_6, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
     RGB(0.957,0.792,0.894),
     RGB(0.902,0.961,0.788),
     RGB(1.0,0.949,0.682),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel2_7, SA[
+loadcolorscheme(:Pastel2_7, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
@@ -1018,9 +1018,9 @@ loadcolorscheme(:Pastel2_7, SA[
     RGB(0.902,0.961,0.788),
     RGB(1.0,0.949,0.682),
     RGB(0.945,0.886,0.8),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:Pastel2_8, SA[
+loadcolorscheme(:Pastel2_8, (
     RGB(0.702,0.886,0.804),
     RGB(0.992,0.804,0.675),
     RGB(0.796,0.835,0.91),
@@ -1029,39 +1029,39 @@ loadcolorscheme(:Pastel2_8, SA[
     RGB(1.0,0.949,0.682),
     RGB(0.945,0.886,0.8),
     RGB(0.8,0.8,0.8),
-], "colorbrewer2", "pastel shades")
+), "colorbrewer2", "pastel shades")
 
-loadcolorscheme(:BuGn_3, SA[
+loadcolorscheme(:BuGn_3, (
     RGB(0.898,0.961,0.976),
     RGB(0.6,0.847,0.788),
     RGB(0.173,0.635,0.373),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_4, SA[
+loadcolorscheme(:BuGn_4, (
     RGB(0.929,0.973,0.984),
     RGB(0.698,0.886,0.886),
     RGB(0.4,0.761,0.643),
     RGB(0.137,0.545,0.271),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_5, SA[
+loadcolorscheme(:BuGn_5, (
     RGB(0.929,0.973,0.984),
     RGB(0.698,0.886,0.886),
     RGB(0.4,0.761,0.643),
     RGB(0.173,0.635,0.373),
     RGB(0.0,0.427,0.173),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_6, SA[
+loadcolorscheme(:BuGn_6, (
     RGB(0.929,0.973,0.984),
     RGB(0.8,0.925,0.902),
     RGB(0.6,0.847,0.788),
     RGB(0.4,0.761,0.643),
     RGB(0.173,0.635,0.373),
     RGB(0.0,0.427,0.173),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_7, SA[
+loadcolorscheme(:BuGn_7, (
     RGB(0.929,0.973,0.984),
     RGB(0.8,0.925,0.902),
     RGB(0.6,0.847,0.788),
@@ -1069,9 +1069,9 @@ loadcolorscheme(:BuGn_7, SA[
     RGB(0.255,0.682,0.463),
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.345,0.141),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_8, SA[
+loadcolorscheme(:BuGn_8, (
     RGB(0.969,0.988,0.992),
     RGB(0.898,0.961,0.976),
     RGB(0.8,0.925,0.902),
@@ -1080,9 +1080,9 @@ loadcolorscheme(:BuGn_8, SA[
     RGB(0.255,0.682,0.463),
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.345,0.141),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BuGn_9, SA[
+loadcolorscheme(:BuGn_9, (
     RGB(0.969,0.988,0.992),
     RGB(0.898,0.961,0.976),
     RGB(0.8,0.925,0.902),
@@ -1092,39 +1092,39 @@ loadcolorscheme(:BuGn_9, SA[
     RGB(0.137,0.545,0.271),
     RGB(0.0,0.427,0.173),
     RGB(0.0,0.267,0.106),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_3, SA[
+loadcolorscheme(:YlOrBr_3, (
     RGB(1.0,0.969,0.737),
     RGB(0.996,0.769,0.31),
     RGB(0.851,0.373,0.055),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_4, SA[
+loadcolorscheme(:YlOrBr_4, (
     RGB(1.0,1.0,0.831),
     RGB(0.996,0.851,0.557),
     RGB(0.996,0.6,0.161),
     RGB(0.8,0.298,0.008),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_5, SA[
+loadcolorscheme(:YlOrBr_5, (
     RGB(1.0,1.0,0.831),
     RGB(0.996,0.851,0.557),
     RGB(0.996,0.6,0.161),
     RGB(0.851,0.373,0.055),
     RGB(0.6,0.204,0.016),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_6, SA[
+loadcolorscheme(:YlOrBr_6, (
     RGB(1.0,1.0,0.831),
     RGB(0.996,0.89,0.569),
     RGB(0.996,0.769,0.31),
     RGB(0.996,0.6,0.161),
     RGB(0.851,0.373,0.055),
     RGB(0.6,0.204,0.016),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_7, SA[
+loadcolorscheme(:YlOrBr_7, (
     RGB(1.0,1.0,0.831),
     RGB(0.996,0.89,0.569),
     RGB(0.996,0.769,0.31),
@@ -1132,9 +1132,9 @@ loadcolorscheme(:YlOrBr_7, SA[
     RGB(0.925,0.439,0.078),
     RGB(0.8,0.298,0.008),
     RGB(0.549,0.176,0.016),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_8, SA[
+loadcolorscheme(:YlOrBr_8, (
     RGB(1.0,1.0,0.898),
     RGB(1.0,0.969,0.737),
     RGB(0.996,0.89,0.569),
@@ -1143,9 +1143,9 @@ loadcolorscheme(:YlOrBr_8, SA[
     RGB(0.925,0.439,0.078),
     RGB(0.8,0.298,0.008),
     RGB(0.549,0.176,0.016),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlOrBr_9, SA[
+loadcolorscheme(:YlOrBr_9, (
     RGB(1.0,1.0,0.898),
     RGB(1.0,0.969,0.737),
     RGB(0.996,0.89,0.569),
@@ -1155,39 +1155,39 @@ loadcolorscheme(:YlOrBr_9, SA[
     RGB(0.8,0.298,0.008),
     RGB(0.6,0.204,0.016),
     RGB(0.4,0.145,0.024),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_3, SA[
+loadcolorscheme(:PuBuGn_3, (
     RGB(0.925,0.886,0.941),
     RGB(0.651,0.741,0.859),
     RGB(0.11,0.565,0.6),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_4, SA[
+loadcolorscheme(:PuBuGn_4, (
     RGB(0.965,0.937,0.969),
     RGB(0.741,0.788,0.882),
     RGB(0.404,0.663,0.812),
     RGB(0.008,0.506,0.541),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_5, SA[
+loadcolorscheme(:PuBuGn_5, (
     RGB(0.965,0.937,0.969),
     RGB(0.741,0.788,0.882),
     RGB(0.404,0.663,0.812),
     RGB(0.11,0.565,0.6),
     RGB(0.004,0.424,0.349),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_6, SA[
+loadcolorscheme(:PuBuGn_6, (
     RGB(0.965,0.937,0.969),
     RGB(0.816,0.82,0.902),
     RGB(0.651,0.741,0.859),
     RGB(0.404,0.663,0.812),
     RGB(0.11,0.565,0.6),
     RGB(0.004,0.424,0.349),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_7, SA[
+loadcolorscheme(:PuBuGn_7, (
     RGB(0.965,0.937,0.969),
     RGB(0.816,0.82,0.902),
     RGB(0.651,0.741,0.859),
@@ -1195,9 +1195,9 @@ loadcolorscheme(:PuBuGn_7, SA[
     RGB(0.212,0.565,0.753),
     RGB(0.008,0.506,0.541),
     RGB(0.004,0.392,0.314),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_8, SA[
+loadcolorscheme(:PuBuGn_8, (
     RGB(1.0,0.969,0.984),
     RGB(0.925,0.886,0.941),
     RGB(0.816,0.82,0.902),
@@ -1206,9 +1206,9 @@ loadcolorscheme(:PuBuGn_8, SA[
     RGB(0.212,0.565,0.753),
     RGB(0.008,0.506,0.541),
     RGB(0.004,0.392,0.314),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuBuGn_9, SA[
+loadcolorscheme(:PuBuGn_9, (
     RGB(1.0,0.969,0.984),
     RGB(0.925,0.886,0.941),
     RGB(0.816,0.82,0.902),
@@ -1218,39 +1218,39 @@ loadcolorscheme(:PuBuGn_9, SA[
     RGB(0.008,0.506,0.541),
     RGB(0.004,0.424,0.349),
     RGB(0.004,0.275,0.212),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_3, SA[
+loadcolorscheme(:Spectral_3, (
     RGB(0.988,0.553,0.349),
     RGB(1.0,1.0,0.749),
     RGB(0.6,0.835,0.58),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_4, SA[
+loadcolorscheme(:Spectral_4, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(0.671,0.867,0.643),
     RGB(0.169,0.514,0.729),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_5, SA[
+loadcolorscheme(:Spectral_5, (
     RGB(0.843,0.098,0.11),
     RGB(0.992,0.682,0.38),
     RGB(1.0,1.0,0.749),
     RGB(0.671,0.867,0.643),
     RGB(0.169,0.514,0.729),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_6, SA[
+loadcolorscheme(:Spectral_6, (
     RGB(0.835,0.243,0.31),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.545),
     RGB(0.902,0.961,0.596),
     RGB(0.6,0.835,0.58),
     RGB(0.196,0.533,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_7, SA[
+loadcolorscheme(:Spectral_7, (
     RGB(0.835,0.243,0.31),
     RGB(0.988,0.553,0.349),
     RGB(0.996,0.878,0.545),
@@ -1258,9 +1258,9 @@ loadcolorscheme(:Spectral_7, SA[
     RGB(0.902,0.961,0.596),
     RGB(0.6,0.835,0.58),
     RGB(0.196,0.533,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_8, SA[
+loadcolorscheme(:Spectral_8, (
     RGB(0.835,0.243,0.31),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -1269,9 +1269,9 @@ loadcolorscheme(:Spectral_8, SA[
     RGB(0.671,0.867,0.643),
     RGB(0.4,0.761,0.647),
     RGB(0.196,0.533,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_9, SA[
+loadcolorscheme(:Spectral_9, (
     RGB(0.835,0.243,0.31),
     RGB(0.957,0.427,0.263),
     RGB(0.992,0.682,0.38),
@@ -1281,9 +1281,9 @@ loadcolorscheme(:Spectral_9, SA[
     RGB(0.671,0.867,0.643),
     RGB(0.4,0.761,0.647),
     RGB(0.196,0.533,0.741),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_10, SA[
+loadcolorscheme(:Spectral_10, (
     RGB(0.62,0.004,0.259),
     RGB(0.835,0.243,0.31),
     RGB(0.957,0.427,0.263),
@@ -1294,9 +1294,9 @@ loadcolorscheme(:Spectral_10, SA[
     RGB(0.4,0.761,0.647),
     RGB(0.196,0.533,0.741),
     RGB(0.369,0.31,0.635),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Spectral_11, SA[
+loadcolorscheme(:Spectral_11, (
     RGB(0.62,0.004,0.259),
     RGB(0.835,0.243,0.31),
     RGB(0.957,0.427,0.263),
@@ -1308,39 +1308,39 @@ loadcolorscheme(:Spectral_11, SA[
     RGB(0.4,0.761,0.647),
     RGB(0.196,0.533,0.741),
     RGB(0.369,0.31,0.635),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_3, SA[
+loadcolorscheme(:YlGn_3, (
     RGB(0.969,0.988,0.725),
     RGB(0.678,0.867,0.557),
     RGB(0.192,0.639,0.329),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_4, SA[
+loadcolorscheme(:YlGn_4, (
     RGB(1.0,1.0,0.8),
     RGB(0.761,0.902,0.6),
     RGB(0.471,0.776,0.475),
     RGB(0.137,0.518,0.263),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_5, SA[
+loadcolorscheme(:YlGn_5, (
     RGB(1.0,1.0,0.8),
     RGB(0.761,0.902,0.6),
     RGB(0.471,0.776,0.475),
     RGB(0.192,0.639,0.329),
     RGB(0.0,0.408,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_6, SA[
+loadcolorscheme(:YlGn_6, (
     RGB(1.0,1.0,0.8),
     RGB(0.851,0.941,0.639),
     RGB(0.678,0.867,0.557),
     RGB(0.471,0.776,0.475),
     RGB(0.192,0.639,0.329),
     RGB(0.0,0.408,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_7, SA[
+loadcolorscheme(:YlGn_7, (
     RGB(1.0,1.0,0.8),
     RGB(0.851,0.941,0.639),
     RGB(0.678,0.867,0.557),
@@ -1348,9 +1348,9 @@ loadcolorscheme(:YlGn_7, SA[
     RGB(0.255,0.671,0.365),
     RGB(0.137,0.518,0.263),
     RGB(0.0,0.353,0.196),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_8, SA[
+loadcolorscheme(:YlGn_8, (
     RGB(1.0,1.0,0.898),
     RGB(0.969,0.988,0.725),
     RGB(0.851,0.941,0.639),
@@ -1359,9 +1359,9 @@ loadcolorscheme(:YlGn_8, SA[
     RGB(0.255,0.671,0.365),
     RGB(0.137,0.518,0.263),
     RGB(0.0,0.353,0.196),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:YlGn_9, SA[
+loadcolorscheme(:YlGn_9, (
     RGB(1.0,1.0,0.898),
     RGB(0.969,0.988,0.725),
     RGB(0.851,0.941,0.639),
@@ -1371,39 +1371,39 @@ loadcolorscheme(:YlGn_9, SA[
     RGB(0.137,0.518,0.263),
     RGB(0.0,0.408,0.216),
     RGB(0.0,0.271,0.161),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_3, SA[
+loadcolorscheme(:RdGy_3, (
     RGB(0.937,0.541,0.384),
     RGB(1.0,1.0,1.0),
     RGB(0.6,0.6,0.6),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_4, SA[
+loadcolorscheme(:RdGy_4, (
     RGB(0.792,0.0,0.125),
     RGB(0.957,0.647,0.51),
     RGB(0.729,0.729,0.729),
     RGB(0.251,0.251,0.251),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_5, SA[
+loadcolorscheme(:RdGy_5, (
     RGB(0.792,0.0,0.125),
     RGB(0.957,0.647,0.51),
     RGB(1.0,1.0,1.0),
     RGB(0.729,0.729,0.729),
     RGB(0.251,0.251,0.251),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_6, SA[
+loadcolorscheme(:RdGy_6, (
     RGB(0.698,0.094,0.169),
     RGB(0.937,0.541,0.384),
     RGB(0.992,0.859,0.78),
     RGB(0.878,0.878,0.878),
     RGB(0.6,0.6,0.6),
     RGB(0.302,0.302,0.302),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_7, SA[
+loadcolorscheme(:RdGy_7, (
     RGB(0.698,0.094,0.169),
     RGB(0.937,0.541,0.384),
     RGB(0.992,0.859,0.78),
@@ -1411,9 +1411,9 @@ loadcolorscheme(:RdGy_7, SA[
     RGB(0.878,0.878,0.878),
     RGB(0.6,0.6,0.6),
     RGB(0.302,0.302,0.302),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_8, SA[
+loadcolorscheme(:RdGy_8, (
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
     RGB(0.957,0.647,0.51),
@@ -1422,9 +1422,9 @@ loadcolorscheme(:RdGy_8, SA[
     RGB(0.729,0.729,0.729),
     RGB(0.529,0.529,0.529),
     RGB(0.302,0.302,0.302),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_9, SA[
+loadcolorscheme(:RdGy_9, (
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
     RGB(0.957,0.647,0.51),
@@ -1434,9 +1434,9 @@ loadcolorscheme(:RdGy_9, SA[
     RGB(0.729,0.729,0.729),
     RGB(0.529,0.529,0.529),
     RGB(0.302,0.302,0.302),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_10, SA[
+loadcolorscheme(:RdGy_10, (
     RGB(0.404,0.0,0.122),
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
@@ -1447,9 +1447,9 @@ loadcolorscheme(:RdGy_10, SA[
     RGB(0.529,0.529,0.529),
     RGB(0.302,0.302,0.302),
     RGB(0.102,0.102,0.102),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdGy_11, SA[
+loadcolorscheme(:RdGy_11, (
     RGB(0.404,0.0,0.122),
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
@@ -1461,39 +1461,39 @@ loadcolorscheme(:RdGy_11, SA[
     RGB(0.529,0.529,0.529),
     RGB(0.302,0.302,0.302),
     RGB(0.102,0.102,0.102),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_3, SA[
+loadcolorscheme(:Greys_3, (
     RGB(0.941,0.941,0.941),
     RGB(0.741,0.741,0.741),
     RGB(0.388,0.388,0.388),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_4, SA[
+loadcolorscheme(:Greys_4, (
     RGB(0.969,0.969,0.969),
     RGB(0.8,0.8,0.8),
     RGB(0.588,0.588,0.588),
     RGB(0.322,0.322,0.322),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_5, SA[
+loadcolorscheme(:Greys_5, (
     RGB(0.969,0.969,0.969),
     RGB(0.8,0.8,0.8),
     RGB(0.588,0.588,0.588),
     RGB(0.388,0.388,0.388),
     RGB(0.145,0.145,0.145),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_6, SA[
+loadcolorscheme(:Greys_6, (
     RGB(0.969,0.969,0.969),
     RGB(0.851,0.851,0.851),
     RGB(0.741,0.741,0.741),
     RGB(0.588,0.588,0.588),
     RGB(0.388,0.388,0.388),
     RGB(0.145,0.145,0.145),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_7, SA[
+loadcolorscheme(:Greys_7, (
     RGB(0.969,0.969,0.969),
     RGB(0.851,0.851,0.851),
     RGB(0.741,0.741,0.741),
@@ -1501,9 +1501,9 @@ loadcolorscheme(:Greys_7, SA[
     RGB(0.451,0.451,0.451),
     RGB(0.322,0.322,0.322),
     RGB(0.145,0.145,0.145),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_8, SA[
+loadcolorscheme(:Greys_8, (
     RGB(1.0,1.0,1.0),
     RGB(0.941,0.941,0.941),
     RGB(0.851,0.851,0.851),
@@ -1512,9 +1512,9 @@ loadcolorscheme(:Greys_8, SA[
     RGB(0.451,0.451,0.451),
     RGB(0.322,0.322,0.322),
     RGB(0.145,0.145,0.145),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Greys_9, SA[
+loadcolorscheme(:Greys_9, (
     RGB(1.0,1.0,1.0),
     RGB(0.941,0.941,0.941),
     RGB(0.851,0.851,0.851),
@@ -1524,39 +1524,39 @@ loadcolorscheme(:Greys_9, SA[
     RGB(0.322,0.322,0.322),
     RGB(0.145,0.145,0.145),
     RGB(0.0,0.0,0.0),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_3, SA[
+loadcolorscheme(:BrBG_3, (
     RGB(0.847,0.702,0.396),
     RGB(0.961,0.961,0.961),
     RGB(0.353,0.706,0.675),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_4, SA[
+loadcolorscheme(:BrBG_4, (
     RGB(0.651,0.38,0.102),
     RGB(0.875,0.761,0.49),
     RGB(0.502,0.804,0.757),
     RGB(0.004,0.522,0.443),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_5, SA[
+loadcolorscheme(:BrBG_5, (
     RGB(0.651,0.38,0.102),
     RGB(0.875,0.761,0.49),
     RGB(0.961,0.961,0.961),
     RGB(0.502,0.804,0.757),
     RGB(0.004,0.522,0.443),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_6, SA[
+loadcolorscheme(:BrBG_6, (
     RGB(0.549,0.318,0.039),
     RGB(0.847,0.702,0.396),
     RGB(0.965,0.91,0.765),
     RGB(0.78,0.918,0.898),
     RGB(0.353,0.706,0.675),
     RGB(0.004,0.4,0.369),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_7, SA[
+loadcolorscheme(:BrBG_7, (
     RGB(0.549,0.318,0.039),
     RGB(0.847,0.702,0.396),
     RGB(0.965,0.91,0.765),
@@ -1564,9 +1564,9 @@ loadcolorscheme(:BrBG_7, SA[
     RGB(0.78,0.918,0.898),
     RGB(0.353,0.706,0.675),
     RGB(0.004,0.4,0.369),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_8, SA[
+loadcolorscheme(:BrBG_8, (
     RGB(0.549,0.318,0.039),
     RGB(0.749,0.506,0.176),
     RGB(0.875,0.761,0.49),
@@ -1575,9 +1575,9 @@ loadcolorscheme(:BrBG_8, SA[
     RGB(0.502,0.804,0.757),
     RGB(0.208,0.592,0.561),
     RGB(0.004,0.4,0.369),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_9, SA[
+loadcolorscheme(:BrBG_9, (
     RGB(0.549,0.318,0.039),
     RGB(0.749,0.506,0.176),
     RGB(0.875,0.761,0.49),
@@ -1587,9 +1587,9 @@ loadcolorscheme(:BrBG_9, SA[
     RGB(0.502,0.804,0.757),
     RGB(0.208,0.592,0.561),
     RGB(0.004,0.4,0.369),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_10, SA[
+loadcolorscheme(:BrBG_10, (
     RGB(0.329,0.188,0.02),
     RGB(0.549,0.318,0.039),
     RGB(0.749,0.506,0.176),
@@ -1600,9 +1600,9 @@ loadcolorscheme(:BrBG_10, SA[
     RGB(0.208,0.592,0.561),
     RGB(0.004,0.4,0.369),
     RGB(0.0,0.235,0.188),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:BrBG_11, SA[
+loadcolorscheme(:BrBG_11, (
     RGB(0.329,0.188,0.02),
     RGB(0.549,0.318,0.039),
     RGB(0.749,0.506,0.176),
@@ -1614,39 +1614,39 @@ loadcolorscheme(:BrBG_11, SA[
     RGB(0.208,0.592,0.561),
     RGB(0.004,0.4,0.369),
     RGB(0.0,0.235,0.188),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_3, SA[
+loadcolorscheme(:RdPu_3, (
     RGB(0.992,0.878,0.867),
     RGB(0.98,0.624,0.71),
     RGB(0.773,0.106,0.541),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_4, SA[
+loadcolorscheme(:RdPu_4, (
     RGB(0.996,0.922,0.886),
     RGB(0.984,0.706,0.725),
     RGB(0.969,0.408,0.631),
     RGB(0.682,0.004,0.494),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_5, SA[
+loadcolorscheme(:RdPu_5, (
     RGB(0.996,0.922,0.886),
     RGB(0.984,0.706,0.725),
     RGB(0.969,0.408,0.631),
     RGB(0.773,0.106,0.541),
     RGB(0.478,0.004,0.467),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_6, SA[
+loadcolorscheme(:RdPu_6, (
     RGB(0.996,0.922,0.886),
     RGB(0.988,0.773,0.753),
     RGB(0.98,0.624,0.71),
     RGB(0.969,0.408,0.631),
     RGB(0.773,0.106,0.541),
     RGB(0.478,0.004,0.467),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_7, SA[
+loadcolorscheme(:RdPu_7, (
     RGB(0.996,0.922,0.886),
     RGB(0.988,0.773,0.753),
     RGB(0.98,0.624,0.71),
@@ -1654,9 +1654,9 @@ loadcolorscheme(:RdPu_7, SA[
     RGB(0.867,0.204,0.592),
     RGB(0.682,0.004,0.494),
     RGB(0.478,0.004,0.467),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_8, SA[
+loadcolorscheme(:RdPu_8, (
     RGB(1.0,0.969,0.953),
     RGB(0.992,0.878,0.867),
     RGB(0.988,0.773,0.753),
@@ -1665,9 +1665,9 @@ loadcolorscheme(:RdPu_8, SA[
     RGB(0.867,0.204,0.592),
     RGB(0.682,0.004,0.494),
     RGB(0.478,0.004,0.467),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdPu_9, SA[
+loadcolorscheme(:RdPu_9, (
     RGB(1.0,0.969,0.953),
     RGB(0.992,0.878,0.867),
     RGB(0.988,0.773,0.753),
@@ -1677,39 +1677,39 @@ loadcolorscheme(:RdPu_9, SA[
     RGB(0.682,0.004,0.494),
     RGB(0.478,0.004,0.467),
     RGB(0.286,0.0,0.416),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_3, SA[
+loadcolorscheme(:PRGn_3, (
     RGB(0.686,0.553,0.765),
     RGB(0.969,0.969,0.969),
     RGB(0.498,0.749,0.482),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_4, SA[
+loadcolorscheme(:PRGn_4, (
     RGB(0.482,0.196,0.58),
     RGB(0.761,0.647,0.812),
     RGB(0.651,0.859,0.627),
     RGB(0.0,0.533,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_5, SA[
+loadcolorscheme(:PRGn_5, (
     RGB(0.482,0.196,0.58),
     RGB(0.761,0.647,0.812),
     RGB(0.969,0.969,0.969),
     RGB(0.651,0.859,0.627),
     RGB(0.0,0.533,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_6, SA[
+loadcolorscheme(:PRGn_6, (
     RGB(0.463,0.165,0.514),
     RGB(0.686,0.553,0.765),
     RGB(0.906,0.831,0.91),
     RGB(0.851,0.941,0.827),
     RGB(0.498,0.749,0.482),
     RGB(0.106,0.471,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_7, SA[
+loadcolorscheme(:PRGn_7, (
     RGB(0.463,0.165,0.514),
     RGB(0.686,0.553,0.765),
     RGB(0.906,0.831,0.91),
@@ -1717,9 +1717,9 @@ loadcolorscheme(:PRGn_7, SA[
     RGB(0.851,0.941,0.827),
     RGB(0.498,0.749,0.482),
     RGB(0.106,0.471,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_8, SA[
+loadcolorscheme(:PRGn_8, (
     RGB(0.463,0.165,0.514),
     RGB(0.6,0.439,0.671),
     RGB(0.761,0.647,0.812),
@@ -1728,9 +1728,9 @@ loadcolorscheme(:PRGn_8, SA[
     RGB(0.651,0.859,0.627),
     RGB(0.353,0.682,0.38),
     RGB(0.106,0.471,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_9, SA[
+loadcolorscheme(:PRGn_9, (
     RGB(0.463,0.165,0.514),
     RGB(0.6,0.439,0.671),
     RGB(0.761,0.647,0.812),
@@ -1740,9 +1740,9 @@ loadcolorscheme(:PRGn_9, SA[
     RGB(0.651,0.859,0.627),
     RGB(0.353,0.682,0.38),
     RGB(0.106,0.471,0.216),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_10, SA[
+loadcolorscheme(:PRGn_10, (
     RGB(0.251,0.0,0.294),
     RGB(0.463,0.165,0.514),
     RGB(0.6,0.439,0.671),
@@ -1753,9 +1753,9 @@ loadcolorscheme(:PRGn_10, SA[
     RGB(0.353,0.682,0.38),
     RGB(0.106,0.471,0.216),
     RGB(0.0,0.267,0.106),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PRGn_11, SA[
+loadcolorscheme(:PRGn_11, (
     RGB(0.251,0.0,0.294),
     RGB(0.463,0.165,0.514),
     RGB(0.6,0.439,0.671),
@@ -1767,39 +1767,39 @@ loadcolorscheme(:PRGn_11, SA[
     RGB(0.353,0.682,0.38),
     RGB(0.106,0.471,0.216),
     RGB(0.0,0.267,0.106),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_3, SA[
+loadcolorscheme(:Dark2_3, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_4, SA[
+loadcolorscheme(:Dark2_4, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
     RGB(0.906,0.161,0.541),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_5, SA[
+loadcolorscheme(:Dark2_5, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
     RGB(0.906,0.161,0.541),
     RGB(0.4,0.651,0.118),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_6, SA[
+loadcolorscheme(:Dark2_6, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
     RGB(0.906,0.161,0.541),
     RGB(0.4,0.651,0.118),
     RGB(0.902,0.671,0.008),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_7, SA[
+loadcolorscheme(:Dark2_7, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
@@ -1807,9 +1807,9 @@ loadcolorscheme(:Dark2_7, SA[
     RGB(0.4,0.651,0.118),
     RGB(0.902,0.671,0.008),
     RGB(0.651,0.463,0.114),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Dark2_8, SA[
+loadcolorscheme(:Dark2_8, (
     RGB(0.106,0.62,0.467),
     RGB(0.851,0.373,0.008),
     RGB(0.459,0.439,0.702),
@@ -1818,39 +1818,39 @@ loadcolorscheme(:Dark2_8, SA[
     RGB(0.902,0.671,0.008),
     RGB(0.651,0.463,0.114),
     RGB(0.4,0.4,0.4),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_3, SA[
+loadcolorscheme(:RdBu_3, (
     RGB(0.937,0.541,0.384),
     RGB(0.969,0.969,0.969),
     RGB(0.404,0.663,0.812),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_4, SA[
+loadcolorscheme(:RdBu_4, (
     RGB(0.792,0.0,0.125),
     RGB(0.957,0.647,0.51),
     RGB(0.573,0.773,0.871),
     RGB(0.02,0.443,0.69),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_5, SA[
+loadcolorscheme(:RdBu_5, (
     RGB(0.792,0.0,0.125),
     RGB(0.957,0.647,0.51),
     RGB(0.969,0.969,0.969),
     RGB(0.573,0.773,0.871),
     RGB(0.02,0.443,0.69),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_6, SA[
+loadcolorscheme(:RdBu_6, (
     RGB(0.698,0.094,0.169),
     RGB(0.937,0.541,0.384),
     RGB(0.992,0.859,0.78),
     RGB(0.82,0.898,0.941),
     RGB(0.404,0.663,0.812),
     RGB(0.129,0.4,0.675),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_7, SA[
+loadcolorscheme(:RdBu_7, (
     RGB(0.698,0.094,0.169),
     RGB(0.937,0.541,0.384),
     RGB(0.992,0.859,0.78),
@@ -1858,9 +1858,9 @@ loadcolorscheme(:RdBu_7, SA[
     RGB(0.82,0.898,0.941),
     RGB(0.404,0.663,0.812),
     RGB(0.129,0.4,0.675),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_8, SA[
+loadcolorscheme(:RdBu_8, (
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
     RGB(0.957,0.647,0.51),
@@ -1869,9 +1869,9 @@ loadcolorscheme(:RdBu_8, SA[
     RGB(0.573,0.773,0.871),
     RGB(0.263,0.576,0.765),
     RGB(0.129,0.4,0.675),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_9, SA[
+loadcolorscheme(:RdBu_9, (
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
     RGB(0.957,0.647,0.51),
@@ -1881,9 +1881,9 @@ loadcolorscheme(:RdBu_9, SA[
     RGB(0.573,0.773,0.871),
     RGB(0.263,0.576,0.765),
     RGB(0.129,0.4,0.675),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_10, SA[
+loadcolorscheme(:RdBu_10, (
     RGB(0.404,0.0,0.122),
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
@@ -1894,9 +1894,9 @@ loadcolorscheme(:RdBu_10, SA[
     RGB(0.263,0.576,0.765),
     RGB(0.129,0.4,0.675),
     RGB(0.02,0.188,0.38),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:RdBu_11, SA[
+loadcolorscheme(:RdBu_11, (
     RGB(0.404,0.0,0.122),
     RGB(0.698,0.094,0.169),
     RGB(0.839,0.376,0.302),
@@ -1908,39 +1908,39 @@ loadcolorscheme(:RdBu_11, SA[
     RGB(0.263,0.576,0.765),
     RGB(0.129,0.4,0.675),
     RGB(0.02,0.188,0.38),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_3, SA[
+loadcolorscheme(:PuOr_3, (
     RGB(0.945,0.639,0.251),
     RGB(0.969,0.969,0.969),
     RGB(0.6,0.557,0.765),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_4, SA[
+loadcolorscheme(:PuOr_4, (
     RGB(0.902,0.38,0.004),
     RGB(0.992,0.722,0.388),
     RGB(0.698,0.671,0.824),
     RGB(0.369,0.235,0.6),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_5, SA[
+loadcolorscheme(:PuOr_5, (
     RGB(0.902,0.38,0.004),
     RGB(0.992,0.722,0.388),
     RGB(0.969,0.969,0.969),
     RGB(0.698,0.671,0.824),
     RGB(0.369,0.235,0.6),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_6, SA[
+loadcolorscheme(:PuOr_6, (
     RGB(0.702,0.345,0.024),
     RGB(0.945,0.639,0.251),
     RGB(0.996,0.878,0.714),
     RGB(0.847,0.855,0.922),
     RGB(0.6,0.557,0.765),
     RGB(0.329,0.153,0.533),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_7, SA[
+loadcolorscheme(:PuOr_7, (
     RGB(0.702,0.345,0.024),
     RGB(0.945,0.639,0.251),
     RGB(0.996,0.878,0.714),
@@ -1948,9 +1948,9 @@ loadcolorscheme(:PuOr_7, SA[
     RGB(0.847,0.855,0.922),
     RGB(0.6,0.557,0.765),
     RGB(0.329,0.153,0.533),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_8, SA[
+loadcolorscheme(:PuOr_8, (
     RGB(0.702,0.345,0.024),
     RGB(0.878,0.51,0.078),
     RGB(0.992,0.722,0.388),
@@ -1959,9 +1959,9 @@ loadcolorscheme(:PuOr_8, SA[
     RGB(0.698,0.671,0.824),
     RGB(0.502,0.451,0.675),
     RGB(0.329,0.153,0.533),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_9, SA[
+loadcolorscheme(:PuOr_9, (
     RGB(0.702,0.345,0.024),
     RGB(0.878,0.51,0.078),
     RGB(0.992,0.722,0.388),
@@ -1971,9 +1971,9 @@ loadcolorscheme(:PuOr_9, SA[
     RGB(0.698,0.671,0.824),
     RGB(0.502,0.451,0.675),
     RGB(0.329,0.153,0.533),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_10, SA[
+loadcolorscheme(:PuOr_10, (
     RGB(0.498,0.231,0.031),
     RGB(0.702,0.345,0.024),
     RGB(0.878,0.51,0.078),
@@ -1984,9 +1984,9 @@ loadcolorscheme(:PuOr_10, SA[
     RGB(0.502,0.451,0.675),
     RGB(0.329,0.153,0.533),
     RGB(0.176,0.0,0.294),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:PuOr_11, SA[
+loadcolorscheme(:PuOr_11, (
     RGB(0.498,0.231,0.031),
     RGB(0.702,0.345,0.024),
     RGB(0.878,0.51,0.078),
@@ -1998,39 +1998,39 @@ loadcolorscheme(:PuOr_11, SA[
     RGB(0.502,0.451,0.675),
     RGB(0.329,0.153,0.533),
     RGB(0.176,0.0,0.294),
-], "colorbrewer2", "")
+), "colorbrewer2", "")
 
-loadcolorscheme(:Paired_3, SA[
+loadcolorscheme(:Paired_3, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_4, SA[
+loadcolorscheme(:Paired_4, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
     RGB(0.2,0.627,0.173),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_5, SA[
+loadcolorscheme(:Paired_5, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
     RGB(0.2,0.627,0.173),
     RGB(0.984,0.604,0.6),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_6, SA[
+loadcolorscheme(:Paired_6, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
     RGB(0.2,0.627,0.173),
     RGB(0.984,0.604,0.6),
     RGB(0.89,0.102,0.11),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_7, SA[
+loadcolorscheme(:Paired_7, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2038,9 +2038,9 @@ loadcolorscheme(:Paired_7, SA[
     RGB(0.984,0.604,0.6),
     RGB(0.89,0.102,0.11),
     RGB(0.992,0.749,0.435),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_8, SA[
+loadcolorscheme(:Paired_8, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2049,9 +2049,9 @@ loadcolorscheme(:Paired_8, SA[
     RGB(0.89,0.102,0.11),
     RGB(0.992,0.749,0.435),
     RGB(1.0,0.498,0.0),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_9, SA[
+loadcolorscheme(:Paired_9, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2061,9 +2061,9 @@ loadcolorscheme(:Paired_9, SA[
     RGB(0.992,0.749,0.435),
     RGB(1.0,0.498,0.0),
     RGB(0.792,0.698,0.839),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_10, SA[
+loadcolorscheme(:Paired_10, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2074,9 +2074,9 @@ loadcolorscheme(:Paired_10, SA[
     RGB(1.0,0.498,0.0),
     RGB(0.792,0.698,0.839),
     RGB(0.416,0.239,0.604),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_11, SA[
+loadcolorscheme(:Paired_11, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2088,9 +2088,9 @@ loadcolorscheme(:Paired_11, SA[
     RGB(0.792,0.698,0.839),
     RGB(0.416,0.239,0.604),
     RGB(1.0,1.0,0.6),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Paired_12, SA[
+loadcolorscheme(:Paired_12, (
     RGB(0.651,0.808,0.89),
     RGB(0.122,0.471,0.706),
     RGB(0.698,0.875,0.541),
@@ -2103,39 +2103,39 @@ loadcolorscheme(:Paired_12, SA[
     RGB(0.416,0.239,0.604),
     RGB(1.0,1.0,0.6),
     RGB(0.694,0.349,0.157),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_3, SA[
+loadcolorscheme(:Set2_3, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_4, SA[
+loadcolorscheme(:Set2_4, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
     RGB(0.906,0.541,0.765),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_5, SA[
+loadcolorscheme(:Set2_5, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
     RGB(0.906,0.541,0.765),
     RGB(0.651,0.847,0.329),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_6, SA[
+loadcolorscheme(:Set2_6, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
     RGB(0.906,0.541,0.765),
     RGB(0.651,0.847,0.329),
     RGB(1.0,0.851,0.184),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_7, SA[
+loadcolorscheme(:Set2_7, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
@@ -2143,9 +2143,9 @@ loadcolorscheme(:Set2_7, SA[
     RGB(0.651,0.847,0.329),
     RGB(1.0,0.851,0.184),
     RGB(0.898,0.769,0.58),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Set2_8, SA[
+loadcolorscheme(:Set2_8, (
     RGB(0.4,0.761,0.647),
     RGB(0.988,0.553,0.384),
     RGB(0.553,0.627,0.796),
@@ -2154,39 +2154,39 @@ loadcolorscheme(:Set2_8, SA[
     RGB(1.0,0.851,0.184),
     RGB(0.898,0.769,0.58),
     RGB(0.702,0.702,0.702),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Oranges_3, SA[
+loadcolorscheme(:Oranges_3, (
     RGB(0.996,0.902,0.808),
     RGB(0.992,0.682,0.42),
     RGB(0.902,0.333,0.051),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_4, SA[
+loadcolorscheme(:Oranges_4, (
     RGB(0.996,0.929,0.871),
     RGB(0.992,0.745,0.522),
     RGB(0.992,0.553,0.235),
     RGB(0.851,0.278,0.004),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_5, SA[
+loadcolorscheme(:Oranges_5, (
     RGB(0.996,0.929,0.871),
     RGB(0.992,0.745,0.522),
     RGB(0.992,0.553,0.235),
     RGB(0.902,0.333,0.051),
     RGB(0.651,0.212,0.012),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_6, SA[
+loadcolorscheme(:Oranges_6, (
     RGB(0.996,0.929,0.871),
     RGB(0.992,0.816,0.635),
     RGB(0.992,0.682,0.42),
     RGB(0.992,0.553,0.235),
     RGB(0.902,0.333,0.051),
     RGB(0.651,0.212,0.012),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_7, SA[
+loadcolorscheme(:Oranges_7, (
     RGB(0.996,0.929,0.871),
     RGB(0.992,0.816,0.635),
     RGB(0.992,0.682,0.42),
@@ -2194,9 +2194,9 @@ loadcolorscheme(:Oranges_7, SA[
     RGB(0.945,0.412,0.075),
     RGB(0.851,0.282,0.004),
     RGB(0.549,0.176,0.016),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_8, SA[
+loadcolorscheme(:Oranges_8, (
     RGB(1.0,0.961,0.922),
     RGB(0.996,0.902,0.808),
     RGB(0.992,0.816,0.635),
@@ -2205,9 +2205,9 @@ loadcolorscheme(:Oranges_8, SA[
     RGB(0.945,0.412,0.075),
     RGB(0.851,0.282,0.004),
     RGB(0.549,0.176,0.016),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:Oranges_9, SA[
+loadcolorscheme(:Oranges_9, (
     RGB(1.0,0.961,0.922),
     RGB(0.996,0.902,0.808),
     RGB(0.992,0.816,0.635),
@@ -2217,39 +2217,39 @@ loadcolorscheme(:Oranges_9, SA[
     RGB(0.851,0.282,0.004),
     RGB(0.651,0.212,0.012),
     RGB(0.498,0.153,0.016),
-], "colorbrewer2", "light to dark orange")
+), "colorbrewer2", "light to dark orange")
 
-loadcolorscheme(:OrRd_3, SA[
+loadcolorscheme(:OrRd_3, (
     RGB(0.996,0.91,0.784),
     RGB(0.992,0.733,0.518),
     RGB(0.89,0.29,0.2),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_4, SA[
+loadcolorscheme(:OrRd_4, (
     RGB(0.996,0.941,0.851),
     RGB(0.992,0.8,0.541),
     RGB(0.988,0.553,0.349),
     RGB(0.843,0.188,0.122),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_5, SA[
+loadcolorscheme(:OrRd_5, (
     RGB(0.996,0.941,0.851),
     RGB(0.992,0.8,0.541),
     RGB(0.988,0.553,0.349),
     RGB(0.89,0.29,0.2),
     RGB(0.702,0.0,0.0),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_6, SA[
+loadcolorscheme(:OrRd_6, (
     RGB(0.996,0.941,0.851),
     RGB(0.992,0.831,0.62),
     RGB(0.992,0.733,0.518),
     RGB(0.988,0.553,0.349),
     RGB(0.89,0.29,0.2),
     RGB(0.702,0.0,0.0),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_7, SA[
+loadcolorscheme(:OrRd_7, (
     RGB(0.996,0.941,0.851),
     RGB(0.992,0.831,0.62),
     RGB(0.992,0.733,0.518),
@@ -2257,9 +2257,9 @@ loadcolorscheme(:OrRd_7, SA[
     RGB(0.937,0.396,0.282),
     RGB(0.843,0.188,0.122),
     RGB(0.6,0.0,0.0),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_8, SA[
+loadcolorscheme(:OrRd_8, (
     RGB(1.0,0.969,0.925),
     RGB(0.996,0.91,0.784),
     RGB(0.992,0.831,0.62),
@@ -2268,9 +2268,9 @@ loadcolorscheme(:OrRd_8, SA[
     RGB(0.937,0.396,0.282),
     RGB(0.843,0.188,0.122),
     RGB(0.6,0.0,0.0),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:OrRd_9, SA[
+loadcolorscheme(:OrRd_9, (
     RGB(1.0,0.969,0.925),
     RGB(0.996,0.91,0.784),
     RGB(0.992,0.831,0.62),
@@ -2280,39 +2280,39 @@ loadcolorscheme(:OrRd_9, SA[
     RGB(0.843,0.188,0.122),
     RGB(0.702,0.0,0.0),
     RGB(0.498,0.0,0.0),
-], "colorbrewer2", "orange to red")
+), "colorbrewer2", "orange to red")
 
-loadcolorscheme(:Accent_3, SA[
+loadcolorscheme(:Accent_3, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Accent_4, SA[
+loadcolorscheme(:Accent_4, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
     RGB(1.0,1.0,0.6),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Accent_5, SA[
+loadcolorscheme(:Accent_5, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
     RGB(1.0,1.0,0.6),
     RGB(0.22,0.424,0.69),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Accent_6, SA[
+loadcolorscheme(:Accent_6, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
     RGB(1.0,1.0,0.6),
     RGB(0.22,0.424,0.69),
     RGB(0.941,0.008,0.498),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Accent_7, SA[
+loadcolorscheme(:Accent_7, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
@@ -2320,9 +2320,9 @@ loadcolorscheme(:Accent_7, SA[
     RGB(0.22,0.424,0.69),
     RGB(0.941,0.008,0.498),
     RGB(0.749,0.357,0.09),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:Accent_8, SA[
+loadcolorscheme(:Accent_8, (
     RGB(0.498,0.788,0.498),
     RGB(0.745,0.682,0.831),
     RGB(0.992,0.753,0.525),
@@ -2331,39 +2331,39 @@ loadcolorscheme(:Accent_8, SA[
     RGB(0.941,0.008,0.498),
     RGB(0.749,0.357,0.09),
     RGB(0.4,0.4,0.4),
-], "colorbrewer2", "qualitative")
+), "colorbrewer2", "qualitative")
 
-loadcolorscheme(:GnBu_3, SA[
+loadcolorscheme(:GnBu_3, (
     RGB(0.878,0.953,0.859),
     RGB(0.659,0.867,0.71),
     RGB(0.263,0.635,0.792),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_4, SA[
+loadcolorscheme(:GnBu_4, (
     RGB(0.941,0.976,0.91),
     RGB(0.729,0.894,0.737),
     RGB(0.482,0.8,0.769),
     RGB(0.169,0.549,0.745),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_5, SA[
+loadcolorscheme(:GnBu_5, (
     RGB(0.941,0.976,0.91),
     RGB(0.729,0.894,0.737),
     RGB(0.482,0.8,0.769),
     RGB(0.263,0.635,0.792),
     RGB(0.031,0.408,0.675),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_6, SA[
+loadcolorscheme(:GnBu_6, (
     RGB(0.941,0.976,0.91),
     RGB(0.8,0.922,0.773),
     RGB(0.659,0.867,0.71),
     RGB(0.482,0.8,0.769),
     RGB(0.263,0.635,0.792),
     RGB(0.031,0.408,0.675),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_7, SA[
+loadcolorscheme(:GnBu_7, (
     RGB(0.941,0.976,0.91),
     RGB(0.8,0.922,0.773),
     RGB(0.659,0.867,0.71),
@@ -2371,9 +2371,9 @@ loadcolorscheme(:GnBu_7, SA[
     RGB(0.306,0.702,0.827),
     RGB(0.169,0.549,0.745),
     RGB(0.031,0.345,0.62),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_8, SA[
+loadcolorscheme(:GnBu_8, (
     RGB(0.969,0.988,0.941),
     RGB(0.878,0.953,0.859),
     RGB(0.8,0.922,0.773),
@@ -2382,9 +2382,9 @@ loadcolorscheme(:GnBu_8, SA[
     RGB(0.306,0.702,0.827),
     RGB(0.169,0.549,0.745),
     RGB(0.031,0.345,0.62),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:GnBu_9, SA[
+loadcolorscheme(:GnBu_9, (
     RGB(0.969,0.988,0.941),
     RGB(0.878,0.953,0.859),
     RGB(0.8,0.922,0.773),
@@ -2394,39 +2394,39 @@ loadcolorscheme(:GnBu_9, SA[
     RGB(0.169,0.549,0.745),
     RGB(0.031,0.408,0.675),
     RGB(0.031,0.251,0.506),
-], "colorbrewer2", "light green to dark blue")
+), "colorbrewer2", "light green to dark blue")
 
-loadcolorscheme(:PiYG_3, SA[
+loadcolorscheme(:PiYG_3, (
     RGB(0.914,0.639,0.788),
     RGB(0.969,0.969,0.969),
     RGB(0.631,0.843,0.416),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_4, SA[
+loadcolorscheme(:PiYG_4, (
     RGB(0.816,0.11,0.545),
     RGB(0.945,0.714,0.855),
     RGB(0.722,0.882,0.525),
     RGB(0.302,0.675,0.149),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_5, SA[
+loadcolorscheme(:PiYG_5, (
     RGB(0.816,0.11,0.545),
     RGB(0.945,0.714,0.855),
     RGB(0.969,0.969,0.969),
     RGB(0.722,0.882,0.525),
     RGB(0.302,0.675,0.149),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_6, SA[
+loadcolorscheme(:PiYG_6, (
     RGB(0.773,0.106,0.49),
     RGB(0.914,0.639,0.788),
     RGB(0.992,0.878,0.937),
     RGB(0.902,0.961,0.816),
     RGB(0.631,0.843,0.416),
     RGB(0.302,0.573,0.129),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_7, SA[
+loadcolorscheme(:PiYG_7, (
     RGB(0.773,0.106,0.49),
     RGB(0.914,0.639,0.788),
     RGB(0.992,0.878,0.937),
@@ -2434,9 +2434,9 @@ loadcolorscheme(:PiYG_7, SA[
     RGB(0.902,0.961,0.816),
     RGB(0.631,0.843,0.416),
     RGB(0.302,0.573,0.129),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_8, SA[
+loadcolorscheme(:PiYG_8, (
     RGB(0.773,0.106,0.49),
     RGB(0.871,0.467,0.682),
     RGB(0.945,0.714,0.855),
@@ -2445,9 +2445,9 @@ loadcolorscheme(:PiYG_8, SA[
     RGB(0.722,0.882,0.525),
     RGB(0.498,0.737,0.255),
     RGB(0.302,0.573,0.129),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_9, SA[
+loadcolorscheme(:PiYG_9, (
     RGB(0.773,0.106,0.49),
     RGB(0.871,0.467,0.682),
     RGB(0.945,0.714,0.855),
@@ -2457,9 +2457,9 @@ loadcolorscheme(:PiYG_9, SA[
     RGB(0.722,0.882,0.525),
     RGB(0.498,0.737,0.255),
     RGB(0.302,0.573,0.129),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_10, SA[
+loadcolorscheme(:PiYG_10, (
     RGB(0.557,0.004,0.322),
     RGB(0.773,0.106,0.49),
     RGB(0.871,0.467,0.682),
@@ -2470,9 +2470,9 @@ loadcolorscheme(:PiYG_10, SA[
     RGB(0.498,0.737,0.255),
     RGB(0.302,0.573,0.129),
     RGB(0.153,0.392,0.098),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
 
-loadcolorscheme(:PiYG_11, SA[
+loadcolorscheme(:PiYG_11, (
     RGB(0.557,0.004,0.322),
     RGB(0.773,0.106,0.49),
     RGB(0.871,0.467,0.682),
@@ -2484,4 +2484,4 @@ loadcolorscheme(:PiYG_11, SA[
     RGB(0.498,0.737,0.255),
     RGB(0.302,0.573,0.129),
     RGB(0.153,0.392,0.098),
-], "colorbrewer2", "purple to white to green diverging")
+), "colorbrewer2", "purple to white to green diverging")
