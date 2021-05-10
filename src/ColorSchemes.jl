@@ -108,6 +108,7 @@ function loadallschemes()
     include(joinpath(datadir, "seaborn.jl"))
     include(joinpath(datadir, "tableau.jl"))
     include(joinpath(datadir, "cvd.jl"))
+    include(joinpath(datadir, "cividis.jl"))
     include(joinpath(datadir, "flags.jl"))
 
     # create them as constants...
